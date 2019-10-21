@@ -1,6 +1,7 @@
 """
 Bite 105
 """
+
 from string import ascii_lowercase
 
 text = """

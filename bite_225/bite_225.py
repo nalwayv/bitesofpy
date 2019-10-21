@@ -1,5 +1,5 @@
 """
-Bite_255 swap case
+Bite_225 swap case
 """
 PYBITES = "pybites"
 

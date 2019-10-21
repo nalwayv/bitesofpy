@@ -1,3 +1,6 @@
+"""
+Bite 102
+"""
 VALID_COLORS = ['blue', 'yellow', 'red']
 
 

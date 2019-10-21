@@ -38,8 +38,8 @@ def strip_vowels(text: str) -> (str, int):
        The str/int types in the function defintion above are part
        of Python's new type hinting:
        https://docs.python.org/3/library/typing.html"""
-    
-    vouls = ["a","e","i","o","u","A","E","I","O","U"]
+
+    vouls = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
 
     # cleanup
     msg = " ".join([line for line in text.split("\n") if line != ''])
@@ -57,12 +57,12 @@ def strip_vowels(text: str) -> (str, int):
     for num in indexes:
         # split down
         letters = [char for char in msg_list[num]]
-        
-        tally=0
+
+        tally = 0
         for idx, c in enumerate(letters):
             if c in vouls:
                 letters[idx] = "*"
-                tally+=1
+                tally += 1
         msg_list[num] = "".join(letters)
 
     return " ".join(msg_list), tally
