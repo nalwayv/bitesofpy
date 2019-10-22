@@ -184,7 +184,7 @@
 - [ ] 55. Get the latest game releases from Steam's RSS feed
 - [ ] 54. Nicer formatting of a poem or text
 - [ ] 53. Convert text into multiple columns
-- [ ] 52. Create a movie quote API with Flask
+- [x] 52. Create a movie quote API with Flask
 - [ ] 51. When does Python 2 die on Planet Miller?
 - [ ] 50. Make a little PyBites search engine (feedparser)
 - [ ] 49. Scrape Packt's html with BeautifulSoup
