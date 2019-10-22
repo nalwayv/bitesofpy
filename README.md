@@ -26,7 +26,7 @@
 - [ ] 213. Code a translation fixer
 - [ ] 212. Suppressing exceptions
 - [ ] 211. Write a retry decorator
-- [ ] 210. Add Type Annotations
+- [x] 210. Add Type Annotations
 - [x] 209. Write a Sphinx docstring
 - [x] 208. Find the number pairs summing up N
 - [ ] 207. Cached property decorator
@@ -69,7 +69,7 @@
 - [ ] 170. Analyze McDonald's food data
 - [ ] 169. Simple length converter
 - [ ] 168. Ninja Rankings
-- [ ] 167. Complete a User class: properties and representation dunder methods
+- [x] 167. Complete a User class: properties and representation dunder methods
 - [ ] 166. Complete a tox ini file parser class
 - [ ] 165. Parse an /etc/passwd file output
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
@@ -166,7 +166,7 @@
 - [ ] 73. Organize a meeting between timezones (pytz)
 - [x] 72. Retrieve the right Ninja Belt based on score
 - [ ] 71. Keep state in a class + make its instance callable
-- [ ] 70. Create your own iterator
+- [x] 70. Create your own iterator
 - [ ] 69. Regex Fun - part II
 - [x] 68. Remove punctuation characters from a string
 - [x] 67. Working with datetimes
@@ -198,7 +198,7 @@
 - [x] 41. Write a login_required decorator
 - [x] 40. Write a binary search algorithm
 - [x] 39. Calculate the total duration of a course
-- [ ] 38. Using ElementTree to parse XML
+- [x] 38. Using ElementTree to parse XML
 - [x] 37. Rewrite a for loop using recursion
 - [x] 36. Having fun with *args and **kwargs
 - [ ] 35. Having fun with heapq
