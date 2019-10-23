@@ -145,12 +145,12 @@
 - [ ] 94. Parse PyCon talk data from YouTube
 - [ ] 93. Rock-paper-scissors and generator's send
 - [ ] 92. Humanize a datetime
-- [ ] 91. Matching multiple strings
+- [x] 91. Matching multiple strings
 - [ ] 90. What South Park characters talk most?
 - [ ] 89. Playing with lists and dicts
 - [ ] 88. Write a performance monitoring context manager
 - [ ] 87. Convert Decimal to Roman Numerals
-- [ ] 86. Create a RGB-to-Hex converter
+- [x] 86. Create a RGB-to-Hex converter
 - [ ] 85. Write an advanced property
 - [x] 84. Flatten lists recursively (Droste Bite)
 - [ ] 83. At what time does PyBites live?
@@ -232,7 +232,7 @@
 - [x] 7. Parsing dates from logs
 - [ ] 6. PyBites Die Hard
 - [x] 5. Parse a list of names
-- [ ] 4. Top 10 PyBites tags
+- [x] 4. Top 10 PyBites tags
 - [x] 3. Word Values
 - [x] 2. Regex Fun
 - [x] 1. Sum n numbers
