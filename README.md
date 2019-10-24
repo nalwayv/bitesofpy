@@ -230,7 +230,7 @@
 - [x] 9. Palindromes
 - [x] 8. Rotate string characters
 - [x] 7. Parsing dates from logs
-- [ ] 6. PyBites Die Hard
+- [x] 6. PyBites Die Hard
 - [x] 5. Parse a list of names
 - [x] 4. Top 10 PyBites tags
 - [x] 3. Word Values
