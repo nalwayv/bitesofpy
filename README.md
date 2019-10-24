@@ -139,7 +139,7 @@
 - [ ] 100. Display the last part of a file (Unix tail)
 - [x] 99. Write an infinite sequence generator
 - [ ] 98. Code your way out of a grid
-- [ ] 97. BeautifulSoup II - scrape US holidays
+- [x] 97. BeautifulSoup II - scrape US holidays
 - [ ] 96. Build Unix' wc program in Python
 - [ ] 95. Subclass the dict built-in
 - [ ] 94. Parse PyCon talk data from YouTube
