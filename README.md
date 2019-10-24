@@ -223,7 +223,7 @@
 - [ ] 16. PyBites date generator
 - [x] 15. Enumerate 2 sequences
 - [ ] 14. Generate a table of n sequences
-- [ ] 13. Convert dict to namedtuple/json
+- [x] 13. Convert dict to namedtuple/json
 - [x] 12. Write a user validation function
 - [x] 11. Enrich a class with dunder methods
 - [x] 10. Practice exceptions
