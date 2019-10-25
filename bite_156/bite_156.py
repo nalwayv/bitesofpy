@@ -2,6 +2,7 @@
 Bite 156: Make an index of story characters
 """
 import re
+from collections import defaultdict
 
 CHARACTERS = [
     'Red Riding Hood', ('Grandmother', 'Grandma', 'Granny'), 'wolf', 'woodsman'
@@ -76,23 +77,21 @@ def make_character_index(text=text, characters=CHARACTERS):
        - e.g. ('Grandmother', 'Grandma', 'Granny') -
        then return the former as key.
     """
-    indexes = {}
+    indexes = defaultdict(list)
+
     for key in characters:
-        if isinstance(key, tuple):
+        if isinstance(key, (tuple, list)):
             pattern = "|".join([k.lower() for k in key])
-            nums = []
             for idx, line in enumerate(text.splitlines()):
                 match = re.findall(f"{pattern}", line.lower())
                 if match:
-                    nums.append(idx)
-            indexes[key[0].lower()] = nums
+                    indexes[key[0].lower()].append(idx)
         else:
-            nums = []
             for idx, line in enumerate(text.splitlines()):
                 match = re.findall(key.lower(), line.lower())
                 if match:
-                    nums.append(idx)
-            indexes[key.lower()] = nums
+                    indexes[key.lower()].append(idx)
+
     return indexes
 
 
