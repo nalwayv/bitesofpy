@@ -3,6 +3,7 @@ Bite 156: Make an index of story characters
 """
 import re
 from collections import defaultdict
+from typing import List, Dict
 
 CHARACTERS = [
     'Red Riding Hood', ('Grandmother', 'Grandma', 'Granny'), 'wolf', 'woodsman'
@@ -69,7 +70,7 @@ The tree saw the change in the elder brother’s heart and gave them all the gol
 """
 
 
-def make_character_index(text=text, characters=CHARACTERS):
+def make_character_index(text=text, characters=CHARACTERS) -> Dict[str, List[int]]:
     """Return a dict with keys are characters (lowercased) and values
        the lines they appear in sorted order.
        Matches should be case insensitive.
