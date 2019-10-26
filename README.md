@@ -8,6 +8,7 @@
 
 
 #
+- [ ] 229. Scrape best programming books
 - [ ] 228. Create a Gravatar URL
 - [ ] 227. Convert Warcraft json data to csv
 - [ ] 226. Get top titles from news.python.sc
@@ -57,7 +58,7 @@
 - [ ] 182. Parse a bunch of quotes from HTML
 - [ ] 181. Keep a list sorted upon insert
 - [x] 180. Group names by country
-- [ ] 179. Strip comments from Python code
+- [x] 179. Strip comments from Python code
 - [ ] 178. Parse PyBites blog git commit log
 - [ ] 177. Use Pandas to find most common genres in a movie excel sheet
 - [x] 176. Create a variable length chessboard
@@ -136,7 +137,7 @@
 - [x] 103. Loop through a dictionary and pluralise a word
 - [x] 102. Infinite loop, input, continue and break
 - [x] 101. f-strings and a simple if/else
-- [ ] 100. Display the last part of a file (Unix tail)
+- [x] 100. Display the last part of a file (Unix tail)
 - [x] 99. Write an infinite sequence generator
 - [ ] 98. Code your way out of a grid
 - [x] 97. BeautifulSoup II - scrape US holidays
