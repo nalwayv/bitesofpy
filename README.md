@@ -123,7 +123,7 @@
 - [x] 117. Round a number even (a.k.a. banker's rounding)
 - [ ] 116. List and filter files in a directory
 - [x] 115. Count leading spaces
-- [ ] 114. Implement a Color class with classmethods
+- [x] 114. Implement a Color class with classmethods
 - [ ] 113. Filter words with non-ascii characters
 - [ ] 112. Social Media Username Validator
 - [ ] 111. Use the ipinfo API to lookup IP country
