@@ -178,7 +178,7 @@
 - [ ] 62. Data structures matter - speed up your Python code
 - [ ] 61. Create a variable size Paw Patrol card deck with random actions
 - [x] 60. Create a deck of Uno cards
-- [ ] 59. Create a multiplication table class of variable length
+- [x] 59. Create a multiplication table class of variable length
 - [ ] 58. Using argparse to interface with a grocery cart
 - [ ] 57. Create a simple calculator that receives command line arguments
 - [ ] 56. Add a command line interface to our BMI calculator
