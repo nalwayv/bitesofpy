@@ -104,7 +104,7 @@
 - [ ] 136. Bloodtypes
 - [ ] 135. Sort a list of book objects
 - [x] 134. Two Sums
-- [ ] 133. Convert an Amazon URL into an affiliation link
+- [x] 133. Convert an Amazon URL into an affiliation link
 - [ ] 132. Find the word with the most vowels
 - [ ] 131. Screen scraper
 - [ ] 130. Analyze some basic Car Data
