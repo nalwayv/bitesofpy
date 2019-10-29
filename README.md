@@ -8,6 +8,9 @@
 
 
 #
+- [ ] 232. Analyze gold prices
+- [x] 231. Where are the emojis?
+- [ ] 230. Thumbs up for operator overloading
 - [ ] 229. Scrape best programming books
 - [ ] 228. Create a Gravatar URL
 - [ ] 227. Convert Warcraft json data to csv
@@ -76,7 +79,7 @@
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
 - [ ] 163. Which packages were upgraded?
 - [ ] 162. Vertically align output of counters
-- [ ] 161. Count the number of files and directories
+- [x] 161. Count the number of files and directories
 - [ ] 160. 15-way Rock Paper Scissors
 - [x] 159. Create a simple calculator
 - [x] 158. Subclass the list built-in
@@ -119,12 +122,12 @@
 - [ ] 121. Determine the strength of a password
 - [ ] 120. Write a numbers validation decorator
 - [ ] 119. Xmas tree generator
-- [ ] 118. List exercise: return first occurrence indices of duplicated words
+- [x] 118. List exercise: return first occurrence indices of duplicated words
 - [x] 117. Round a number even (a.k.a. banker's rounding)
 - [ ] 116. List and filter files in a directory
 - [x] 115. Count leading spaces
 - [x] 114. Implement a Color class with classmethods
-- [ ] 113. Filter words with non-ascii characters
+- [x] 113. Filter words with non-ascii characters
 - [ ] 112. Social Media Username Validator
 - [ ] 111. Use the ipinfo API to lookup IP country
 - [x] 110. Type conversion and exception handling
@@ -150,7 +153,7 @@
 - [ ] 90. What South Park characters talk most?
 - [ ] 89. Playing with lists and dicts
 - [ ] 88. Write a performance monitoring context manager
-- [ ] 87. Convert Decimal to Roman Numerals
+- [x] 87. Convert Decimal to Roman Numerals
 - [x] 86. Create a RGB-to-Hex converter
 - [ ] 85. Write an advanced property
 - [x] 84. Flatten lists recursively (Droste Bite)
