@@ -51,8 +51,8 @@ if __name__ == "__main__":
     for number, sym in tests:
         print(romanize(number))
 
-    for v in ['string', -1, 0, 4000, 10000]:
+    for an_error in ['string', -1, 0, 4000, 10000]:
         try:
-            print(romanize(v))
+            print(romanize(an_error))
         except ValueError as err:
             print(err)
