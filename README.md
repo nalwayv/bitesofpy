@@ -115,7 +115,7 @@
 - [ ] 128. Work with datetime's strptime and strftime
 - [ ] 127. Return the right ordinal suffix for a number
 - [ ] 126. The Emoji (Unicode) Bite
-- [ ] 125. Get the most recommended books
+- [x] 125. Get the most recommended books
 - [ ] 124. Marvel data analysis
 - [ ] 123. Find the user with most friends
 - [x] 122. Check if two words are anagrams
@@ -185,7 +185,7 @@
 - [ ] 58. Using argparse to interface with a grocery cart
 - [ ] 57. Create a simple calculator that receives command line arguments
 - [ ] 56. Add a command line interface to our BMI calculator
-- [ ] 55. Get the latest game releases from Steam's RSS feed
+- [x] 55. Get the latest game releases from Steam's RSS feed
 - [ ] 54. Nicer formatting of a poem or text
 - [ ] 53. Convert text into multiple columns
 - [x] 52. Create a movie quote API with Flask
