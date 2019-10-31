@@ -58,7 +58,7 @@
 - [ ] 185. Create a simple spelling suggester
 - [ ] 184. Analyze some Bite stats data
 - [ ] 183. Analyze sales data with pandas
-- [ ] 182. Parse a bunch of quotes from HTML
+- [x] 182. Parse a bunch of quotes from HTML
 - [ ] 181. Keep a list sorted upon insert
 - [x] 180. Group names by country
 - [x] 179. Strip comments from Python code
@@ -71,7 +71,7 @@
 - [ ] 172. Having fun with Python Partials
 - [x] 171. Make a terminal spinner animation
 - [ ] 170. Analyze McDonald's food data
-- [ ] 169. Simple length converter
+- [x] 169. Simple length converter
 - [ ] 168. Ninja Rankings
 - [x] 167. Complete a User class: properties and representation dunder methods
 - [ ] 166. Complete a tox ini file parser class
