@@ -121,7 +121,7 @@
 - [x] 122. Check if two words are anagrams
 - [ ] 121. Determine the strength of a password
 - [ ] 120. Write a numbers validation decorator
-- [ ] 119. Xmas tree generator
+- [x] 119. Xmas tree generator
 - [x] 118. List exercise: return first occurrence indices of duplicated words
 - [x] 117. Round a number even (a.k.a. banker's rounding)
 - [ ] 116. List and filter files in a directory
