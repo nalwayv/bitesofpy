@@ -24,7 +24,7 @@
 - [ ] 219. Bite notification planner
 - [x] 218. Create a sandwich decorator
 - [ ] 217. Capture stdout
-- [ ] 216. Parse an email header
+- [x] 216. Parse an email header
 - [x] 215. Validate a license key
 - [x] 214. A countdown generator
 - [ ] 213. Code a translation fixer
