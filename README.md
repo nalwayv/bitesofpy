@@ -27,7 +27,7 @@
 - [x] 216. Parse an email header
 - [x] 215. Validate a license key
 - [x] 214. A countdown generator
-- [ ] 213. Code a translation fixer
+- [x] 213. Code a translation fixer
 - [ ] 212. Suppressing exceptions
 - [ ] 211. Write a retry decorator
 - [x] 210. Add Type Annotations
@@ -128,7 +128,7 @@
 - [x] 115. Count leading spaces
 - [x] 114. Implement a Color class with classmethods
 - [x] 113. Filter words with non-ascii characters
-- [ ] 112. Social Media Username Validator
+- [x] 112. Social Media Username Validator
 - [ ] 111. Use the ipinfo API to lookup IP country
 - [x] 110. Type conversion and exception handling
 - [x] 109. Workout dict lookups and raising an exception
