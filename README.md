@@ -171,7 +171,7 @@
 - [x] 72. Retrieve the right Ninja Belt based on score
 - [ ] 71. Keep state in a class + make its instance callable
 - [x] 70. Create your own iterator
-- [ ] 69. Regex Fun - part II
+- [x] 69. Regex Fun - part II
 - [x] 68. Remove punctuation characters from a string
 - [x] 67. Working with datetimes
 - [x] 66. Calculate the running average of a sequence

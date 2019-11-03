@@ -88,9 +88,6 @@ if __name__ == "__main__":
         print(ok)
 
     # 3=pass 3=fail
-    for test in [
-            'bob_PyBites', '-123ABC', '123-abc__', 'bobb.', 'bob@PyBites',
-            'bob$56'
-    ]:
+    for test in ['bob_PyBites', '-123ABC', '123-abc__', 'bobb.', 'bob@PyBites','bob$56']:
         ok = validate_username('Reddit', test)
         print(ok)
