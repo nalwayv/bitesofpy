@@ -120,7 +120,7 @@
 - [ ] 123. Find the user with most friends
 - [x] 122. Check if two words are anagrams
 - [ ] 121. Determine the strength of a password
-- [ ] 120. Write a numbers validation decorator
+- [x] 120. Write a numbers validation decorator
 - [x] 119. Xmas tree generator
 - [x] 118. List exercise: return first occurrence indices of duplicated words
 - [x] 117. Round a number even (a.k.a. banker's rounding)
@@ -215,7 +215,7 @@
 - [ ] 28. Converting date strings to datetimes
 - [ ] 27. Parse omdb movie json data
 - [x] 26. Dictionary comprehensions are awesome
-- [ ] 25. No promo twice, keep state in a class
+- [x] 25. No promo twice, keep state in a class
 - [x] 24. ABC's and class inheritance
 - [ ] 23. Find words that are > 95% similar
 - [x] 22. Write a decorator with argument
