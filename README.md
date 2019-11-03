@@ -145,7 +145,7 @@
 - [ ] 98. Code your way out of a grid
 - [x] 97. BeautifulSoup II - scrape US holidays
 - [ ] 96. Build Unix' wc program in Python
-- [ ] 95. Subclass the dict built-in
+- [x] 95. Subclass the dict built-in
 - [ ] 94. Parse PyCon talk data from YouTube
 - [ ] 93. Rock-paper-scissors and generator's send
 - [ ] 92. Humanize a datetime
@@ -169,7 +169,7 @@
 - [ ] 74. What day of the week were you born on?
 - [ ] 73. Organize a meeting between timezones (pytz)
 - [x] 72. Retrieve the right Ninja Belt based on score
-- [ ] 71. Keep state in a class + make its instance callable
+- [x] 71. Keep state in a class + make its instance callable
 - [x] 70. Create your own iterator
 - [x] 69. Regex Fun - part II
 - [x] 68. Remove punctuation characters from a string
