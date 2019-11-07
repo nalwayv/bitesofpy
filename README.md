@@ -75,7 +75,7 @@
 - [ ] 168. Ninja Rankings
 - [x] 167. Complete a User class: properties and representation dunder methods
 - [ ] 166. Complete a tox ini file parser class
-- [ ] 165. Parse an /etc/passwd file output
+- [x] 165. Parse an /etc/passwd file output
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
 - [ ] 163. Which packages were upgraded?
 - [ ] 162. Vertically align output of counters
@@ -91,7 +91,7 @@
 - [x] 152. Manipulate string decorator
 - [ ] 151. Contemporary Composers
 - [x] 150. Turn messy CSV into JSON
-- [ ] 149. Sorting words with constraint
+- [x] 149. Sorting words with constraint
 - [x] 148. Print Car Data Grouped by Manufacturer
 - [ ] 147. 100 WEEKDays of Code Date Range
 - [ ] 146. Rhombus generator
