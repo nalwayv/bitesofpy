@@ -54,7 +54,6 @@ def capitalize_sentences(text: str) -> str:
 
 
 if __name__ == "__main__":
-
     for text in [text1, text2, text3]:
         expected = " ".join(text)
         arg = expected.lower()

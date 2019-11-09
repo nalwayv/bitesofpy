@@ -107,10 +107,10 @@
 - [x] 138. OOP fun at the Zoo
 - [ ] 137. Gourmets' Nightmare
 - [ ] 136. Bloodtypes
-- [ ] 135. Sort a list of book objects
+- [x] 135. Sort a list of book objects
 - [x] 134. Two Sums
 - [x] 133. Convert an Amazon URL into an affiliation link
-- [ ] 132. Find the word with the most vowels
+- [x] 132. Find the word with the most vowels
 - [ ] 131. Screen scraper
 - [ ] 130. Analyze some basic Car Data
 - [ ] 129. Analyze Stock Data
@@ -153,7 +153,7 @@
 - [ ] 92. Humanize a datetime
 - [x] 91. Matching multiple strings
 - [ ] 90. What South Park characters talk most?
-- [ ] 89. Playing with lists and dicts
+- [x] 89. Playing with lists and dicts
 - [ ] 88. Write a performance monitoring context manager
 - [x] 87. Convert Decimal to Roman Numerals
 - [x] 86. Create a RGB-to-Hex converter
