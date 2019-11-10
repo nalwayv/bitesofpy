@@ -3,7 +3,7 @@ Bite 129. Analyze Stock Data
 """
 import json
 import os
-from typing import List,Tuple
+from typing import List, Tuple
 
 FILE_PATH = os.path.join(os.path.dirname(__file__), 'tmp', 'data.json')
 ABS_FILE_PATH = os.path.abspath(FILE_PATH)
@@ -61,19 +61,10 @@ def get_stock_symbol_with_highest_cap():
               for key, val in data.items() if key in fields}
              for data in open_file()]
 
-    symbol = ""
-    highest_cap = -1
-
-    for _dict in jdata:
-        cap = _cap_str_to_mln_float(_dict["cap"])
-        if cap > highest_cap:
-            highest_cap = cap
-            symbol = _dict["symbol"]
-
-    return symbol
+    return max(jdata, key=lambda x: _cap_str_to_mln_float(x['cap']))['symbol']
 
 
-def get_sectors_with_max_and_min_stocks() -> Tuple[str,str]:
+def get_sectors_with_max_and_min_stocks() -> Tuple[str, str]:
     """Return a tuple of the sectors with most and least stocks,
        discard n/a"""
 
@@ -89,3 +80,6 @@ def get_sectors_with_max_and_min_stocks() -> Tuple[str,str]:
             sectors[sec] += _cap_str_to_mln_float(cap)
 
     return (max(sectors, key=sectors.get), min(sectors, key=sectors.get))
+
+
+print(get_stock_symbol_with_highest_cap())
