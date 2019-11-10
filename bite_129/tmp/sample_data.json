@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Anworth Mortgage Asset  Corporation",
+        "symbol": "ANH",
+        "industry": "Real Estate Investment Trusts",
+        "sector": "Consumer Services",
+        "market": "NYSE",
+        "cap": "$600.57M"
+    },
+    {
+        "id": 2,
+        "name": "DarioHealth Corp.",
+        "symbol": "DRIO",
+        "industry": "Medical/Dental Instruments",
+        "sector": "Health Care",
+        "market": "NASDAQ",
+        "cap": "$21.78M"
+    },
+    {
+        "id": 3,
+        "name": "Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2",
+        "symbol": "WIW",
+        "industry": "n/a",
+        "sector": "n/a",
+        "market": "NYSE",
+        "cap": "$675.47M"
+    },
+    {
+        "id": 4,
+        "name": "Knowles Corporation",
+        "symbol": "KN",
+        "industry": "Consumer Electronics/Appliances",
+        "sector": "Consumer Non-Durables",
+        "market": "NYSE",
+        "cap": "$1.54B"
+    },
+    {
+        "id": 5,
+        "name": "Teekay Offshore Partners L.P.",
+        "symbol": "TOO^B",
+        "industry": "n/a",
+        "sector": "n/a",
+        "market": "NYSE",
+        "cap": "n/a"
+    },
+    {
+        "id": 6,
+        "name": "Weight Watchers International Inc",
+        "symbol": "WTW",
+        "industry": "Other Consumer Services",
+        "sector": "Consumer Services",
+        "market": "NYSE",
+        "cap": "$1.84B"
+    },
+    {
+        "id": 7,
+        "name": "WideOpenWest, Inc.",
+        "symbol": "WOW",
+        "industry": "Television Services",
+        "sector": "Consumer Services",
+        "market": "NYSE",
+        "cap": "$1.49B"
+    },
+    {
+        "id": 8,
+        "name": "Kayne Anderson Energy Total Return Fund, Inc.",
+        "symbol": "KYE",
+        "industry": "n/a",
+        "sector": "n/a",
+        "market": "NYSE",
+        "cap": "$378.01M"
+    },
+    {
+        "id": 9,
+        "name": "Royce Micro-Cap Trust, Inc.",
+        "symbol": "RMT",
+        "industry": "n/a",
+        "sector": "n/a",
+        "market": "NYSE",
+        "cap": "$323.02M"
+    },
+    {
+        "id": 10,
+        "name": "Bank of the James Financial Group, Inc.",
+        "symbol": "BOTJ",
+        "industry": "Major Banks",
+        "sector": "Finance",
+        "market": "NASDAQ",
+        "cap": "$67.87M"
+    }
+]
