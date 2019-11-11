@@ -88,7 +88,7 @@
 - [x] 157. Filter out accented characters
 - [x] 156. Make an index of story characters
 - [x] 155. Split a string by spaces or quoted text
-- [ ] 154. Write your own Data Class
+- [x] 154. Write your own Data Class
 - [x] 153. Round a sequence of numbers
 - [x] 152. Manipulate string decorator
 - [ ] 151. Contemporary Composers
