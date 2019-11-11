@@ -222,7 +222,7 @@
 - [ ] 23. Find words that are > 95% similar
 - [x] 22. Write a decorator with argument
 - [x] 21. Query a nested data structuren
-- [ ] 20. Write a context manager
+- [x] 20. Write a context manager
 - [x] 19. Write a simple property
 - [x] 18. Find the most common word
 - [x] 17. Form teams from a group of friends
