@@ -20,7 +20,13 @@ def get_ordinal_suffix(number) -> str:
     if number == 0:
         return f"{number}{th}"
 
+    # get least digit if % 10
+    # >> 11 % 10 = 1
+    # >> 2  % 10  = 2
     num1 = number % 10
+    # get least 2 digit if % 100
+    # >> 110 % 100 = 10
+    # >> 211 % 100 = 11
     num2 = number % 100
 
     if num1 == 1 and num2 != 11:
