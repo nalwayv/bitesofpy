@@ -112,7 +112,7 @@
 - [x] 133. Convert an Amazon URL into an affiliation link
 - [x] 132. Find the word with the most vowels
 - [ ] 131. Screen scraper
-- [ ] 130. Analyze some basic Car Data
+- [x] 130. Analyze some basic Car Data
 - [x] 129. Analyze Stock Data
 - [ ] 128. Work with datetime's strptime and strftime
 - [ ] 127. Return the right ordinal suffix for a number
