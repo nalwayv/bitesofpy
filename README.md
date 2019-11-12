@@ -70,7 +70,7 @@
 - [ ] 175. Find missing dates
 - [ ] 174. String manipulation and metrics
 - [ ] 173. Set up future notifications
-- [ ] 172. Having fun with Python Partials
+- [x] 172. Having fun with Python Partials
 - [x] 171. Make a terminal spinner animation
 - [ ] 170. Analyze McDonald's food data
 - [x] 169. Simple length converter
