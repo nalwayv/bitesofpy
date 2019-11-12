@@ -189,7 +189,7 @@
 - [ ] 56. Add a command line interface to our BMI calculator
 - [x] 55. Get the latest game releases from Steam's RSS feed
 - [ ] 54. Nicer formatting of a poem or text
-- [ ] 53. Convert text into multiple columns
+- [x] 53. Convert text into multiple columns
 - [x] 52. Create a movie quote API with Flask
 - [ ] 51. When does Python 2 die on Planet Miller?
 - [ ] 50. Make a little PyBites search engine (feedparser)
