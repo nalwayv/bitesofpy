@@ -119,7 +119,7 @@
 - [ ] 126. The Emoji (Unicode) Bite
 - [x] 125. Get the most recommended books
 - [ ] 124. Marvel data analysis
-- [ ] 123. Find the user with most friends
+- [x] 123. Find the user with most friends
 - [x] 122. Check if two words are anagrams
 - [ ] 121. Determine the strength of a password
 - [x] 120. Write a numbers validation decorator
