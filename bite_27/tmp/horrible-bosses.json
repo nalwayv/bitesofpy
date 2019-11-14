@@ -1,0 +1,31 @@
+{
+  "Title": "Horrible Bosses",
+  "Year": "2011",
+  "Rated": "R",
+  "Released": "08 Jul 2011",
+  "Runtime": "98 min",
+  "Genre": "Comedy, Crime",
+  "Director": "Seth Gordon",
+  "Writer": "Michael Markowitz (screenplay), John Francis Daley (screenplay), Jonathan Goldstein (screenplay), Michael Markowitz (story)",
+  "Actors": "Jason Bateman, Steve Wiebe, Kevin Spacey, Charlie Day",
+  "Plot": "Three friends conspire to murder their awful bosses when they realize they are standing in the way of their happiness.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "3 wins & 11 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzYxNDI5Njc5NF5BMl5BanBnXkFtZTcwMDUxODE1NQ@@._V1_SX300.jpg",
+  "Ratings": [
+    { "Source": "Internet Movie Database", "Value": "6.9/10" },
+    { "Source": "Rotten Tomatoes", "Value": "69%" },
+    { "Source": "Metacritic", "Value": "57/100" }
+  ],
+  "Metascore": "57",
+  "imdbRating": "6.9",
+  "imdbVotes": "378,076",
+  "imdbID": "tt1499658",
+  "Type": "movie",
+  "DVD": "11 Oct 2011",
+  "BoxOffice": "$116,900,000",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://horriblebossesmovie.warnerbros.com/index.html",
+  "Response": "True"
+}

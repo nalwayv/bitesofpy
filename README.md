@@ -165,7 +165,7 @@
 - [x] 80. Check equality of two lists
 - [ ] 79. Parse a csv file and create a bar chart
 - [ ] 78. Find programmers with common languages
-- [ ] 77. New places to travel to
+- [x] 77. New places to travel to
 - [ ] 76. The singledispatch countdown challenge
 - [ ] 75. Parse Unix cal to a weekday mapping
 - [ ] 74. What day of the week were you born on?
@@ -215,7 +215,7 @@
 - [x] 30. Movie data analysis
 - [x] 29. Martin's IQ test
 - [ ] 28. Converting date strings to datetimes
-- [ ] 27. Parse omdb movie json data
+- [x] 27. Parse omdb movie json data
 - [x] 26. Dictionary comprehensions are awesome
 - [x] 25. No promo twice, keep state in a class
 - [x] 24. ABC's and class inheritance

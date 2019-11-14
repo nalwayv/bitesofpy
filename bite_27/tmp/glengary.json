@@ -1,0 +1,31 @@
+{
+  "Title": "Glengarry Glen Ross",
+  "Year": "1992",
+  "Rated": "R",
+  "Released": "02 Oct 1992",
+  "Runtime": "100 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "James Foley",
+  "Writer": "David Mamet (play), David Mamet (screenplay)",
+  "Actors": "Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin",
+  "Plot": "An examination of the machinations behind the scenes at a real estate office.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 6 wins & 10 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTYzN2MxODMtMDBhOC00Y2M0LTgzMTItMzQ4NDIyYWIwMDEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+  "Ratings": [
+    { "Source": "Internet Movie Database", "Value": "7.8/10" },
+    { "Source": "Rotten Tomatoes", "Value": "94%" },
+    { "Source": "Metacritic", "Value": "80/100" }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.8",
+  "imdbVotes": "83,208",
+  "imdbID": "tt0104348",
+  "Type": "movie",
+  "DVD": "20 Feb 2007",
+  "BoxOffice": "N/A",
+  "Production": "Artisan Home Entertainment",
+  "Website": "http://www.artisanent.com/glengarryglenross",
+  "Response": "True"
+}

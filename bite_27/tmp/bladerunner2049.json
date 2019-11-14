@@ -1,0 +1,31 @@
+{
+  "Title": "Blade Runner 2049",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "06 Oct 2017",
+  "Runtime": "164 min",
+  "Genre": "Mystery, Sci-Fi, Thriller",
+  "Director": "Denis Villeneuve",
+  "Writer": "Hampton Fancher (screenplay by), Michael Green (screenplay by), Hampton Fancher (story by), Philip K. Dick (based on characters from the novel \"Do Androids Dream of Electric Sheep?\")",
+  "Actors": "Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+  "Plot": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+  "Language": "English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",
+  "Country": "USA, UK, Hungary, Canada",
+  "Awards": "6 wins & 13 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+  "Ratings": [
+    { "Source": "Internet Movie Database", "Value": "8.4/10" },
+    { "Source": "Rotten Tomatoes", "Value": "87%" },
+    { "Source": "Metacritic", "Value": "81/100" }
+  ],
+  "Metascore": "81",
+  "imdbRating": "8.4",
+  "imdbVotes": "156,246",
+  "imdbID": "tt1856101",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$89,276,502",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://bladerunnermovie.com",
+  "Response": "True"
+}
