@@ -2,24 +2,10 @@ import glob
 import json
 import os
 import re
-from typing import List,Optional
+from typing import List, Optional
 
-# from urllib.request import urlretrieve
-
-# BASE_URL = 'http://projects.bobbelderbos.com/pcc/omdb/'
-MOVIES = ('bladerunner2049 fightclub glengary '
-          'horrible-bosses terminator').split()
-TMP = 'tmp'
-
-# little bit of prework (yes working on pip installables ...)
-# for movie in MOVIES:
-#     fname = f'{movie}.json'
-#     remote = os.path.join(BASE_URL, fname)
-#     local = os.path.join(TMP, fname)
-#     urlretrieve(remote, local)
-
-FILE_PATH = os.path.join(os.path.dirname(__file__), TMP, '*json')
-files = glob.glob(os.path.abspath(FILE_PATH))
+FILE_PATH = os.path.join(os.path.dirname(__file__), 'tmp', '*json')
+FILES = glob.glob(os.path.abspath(FILE_PATH))
 
 
 def get_movie_data(files: List[str]) -> List[dict]:
@@ -38,7 +24,7 @@ def get_movie_data(files: List[str]) -> List[dict]:
     return jsons
 
 
-def get_single_comedy(movies:List[dict])->Optional[str]:
+def get_single_comedy(movies: List[dict]) -> Optional[str]:
     """get_single_comedy
     
     Parameters
@@ -57,7 +43,7 @@ def get_single_comedy(movies:List[dict])->Optional[str]:
     return None
 
 
-def get_movie_most_nominations(movies:List[dict]) -> str:
+def get_movie_most_nominations(movies: List[dict]) -> str:
     """get_movie_most_nominations
     
     Parameters
@@ -68,7 +54,7 @@ def get_movie_most_nominations(movies:List[dict]) -> str:
     Returns
     -------
     str
-        movies title with most nominations
+        movie title with most nominations
     """
     pattern = r'\d*\s(?=nominations.)'
 
@@ -82,7 +68,19 @@ def get_movie_most_nominations(movies:List[dict]) -> str:
     return top[0]
 
 
-def get_movie_longest_runtime(movies):
+def get_movie_longest_runtime(movies) -> str:
+    """get_movie_longest_runtime
+    
+    Parameters
+    ----------
+    movies : List[dict]
+        list of moviedict objects
+    
+    Returns
+    -------
+    str
+        movie title with longest runtime
+    """
     pattern = r'\d*\s(?=min)'
     results = []
     for movie in movies:
@@ -95,7 +93,7 @@ def get_movie_longest_runtime(movies):
 
 
 if __name__ == "__main__":
-    movies = get_movie_data(files)
+    movies = get_movie_data(FILES)
 
     print('-' * 45)
     movie_most_awards = get_movie_most_nominations(movies)
