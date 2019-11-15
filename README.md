@@ -164,7 +164,7 @@
 - [ ] 81. Filter and order tweets by polarity values
 - [x] 80. Check equality of two lists
 - [ ] 79. Parse a csv file and create a bar chart
-- [ ] 78. Find programmers with common languages
+- [x] 78. Find programmers with common languages
 - [x] 77. New places to travel to
 - [ ] 76. The singledispatch countdown challenge
 - [ ] 75. Parse Unix cal to a weekday mapping
@@ -195,7 +195,7 @@
 - [ ] 50. Make a little PyBites search engine (feedparser)
 - [x] 49. Scrape Packt's html with BeautifulSoup
 - [ ] 48. Make a bar chart of new Safari books
-- [ ] 47. Write a new password field validator
+- [x] 47. Write a new password field validator
 - [x] 46. You are a programmer! Code Fizz Buzz
 - [x] 45. Keep a queue of last n items
 - [x] 44. License key generator
