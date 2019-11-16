@@ -8,6 +8,9 @@
 
 
 #
+- [ ] 237. Get the dates Ninja belts were earned
+- [ ] 236. User experience matters! Suggest matching files
+- [ ] 235. Which Bite has the fastest tests?
 - [x] 234. Capitalize sentences	
 - [ ] 233. Make a zipfile of the latest log files
 - [ ] 232. Analyze gold prices
@@ -58,7 +61,7 @@
 - [ ] 187. Actor/actress age at movie release
 - [ ] 186. Calculate number of books to have read at date
 - [ ] 185. Create a simple spelling suggester
-- [ ] 184. Analyze some Bite stats data
+- [x] 184. Analyze some Bite stats data
 - [ ] 183. Analyze sales data with pandas
 - [x] 182. Parse a bunch of quotes from HTML
 - [ ] 181. Keep a list sorted upon insert
