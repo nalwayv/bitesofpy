@@ -3,7 +3,7 @@ Bite 33. Transpose a data structure
 """
 from collections import namedtuple
 from random import randint
-from typing import List, Any, Iterator
+from typing import Any, Iterator, List
 
 POSTS = {
     '2017-8': 19,
@@ -65,4 +65,3 @@ if __name__ == "__main__":
     print(days)
     print(karma)
     print(bitecoin)
-
