@@ -45,21 +45,10 @@ def transpose(data: Any) -> List[list]:
         [['Bob', 'Julian'], [60, 221], [60, 34], [56, 78]]
     """
     if isinstance(data, dict):
-        keys = list(data.keys())
-        values = list(data.values())
-        return [keys, values]
+        return list(zip(*((key,val) for key,val in data.items())))
 
     if isinstance(data, list):
-        try:
-            names = [user.name for user in data]
-            since_days = [user.since_days for user in data]
-            karma_points = [user.karma_points for user in data]
-            bitecoin_earned = [user.bitecoin_earned for user in data]
-        except AttributeError:
-            raise AttributeError(
-                "data within list is not of a Member namedtuple")
-
-        return [names, since_days, karma_points, bitecoin_earned]
+        return list(zip(*data))
 
     raise ValueError("data is not of type list or dict")
 
