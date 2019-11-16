@@ -209,7 +209,7 @@
 - [x] 36. Having fun with *args and **kwargs
 - [ ] 35. Having fun with heapq
 - [ ] 34. Building a Karma app - implement the User class
-- [ ] 33. Transpose a data structure
+- [x] 33. Transpose a data structure
 - [x] 32. Don't let mutability fool you
 - [ ] 31. Matrix multiplication / @ operator
 - [x] 30. Movie data analysis
