@@ -168,7 +168,7 @@
 - [x] 77. New places to travel to
 - [ ] 76. The singledispatch countdown challenge
 - [ ] 75. Parse Unix cal to a weekday mapping
-- [ ] 74. What day of the week were you born on?
+- [x] 74. What day of the week were you born on?
 - [ ] 73. Organize a meeting between timezones (pytz)
 - [x] 72. Retrieve the right Ninja Belt based on score
 - [x] 71. Keep state in a class + make its instance callable
