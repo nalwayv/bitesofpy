@@ -108,7 +108,7 @@
 - [ ] 140. PyBites First Pandas Bite
 - [ ] 139. Calculate a coding streak in days
 - [x] 138. OOP fun at the Zoo
-- [ ] 137. Gourmets' Nightmare
+- [x] 137. Gourmets' Nightmare
 - [ ] 136. Bloodtypes
 - [x] 135. Sort a list of book objects
 - [x] 134. Two Sums
@@ -129,7 +129,7 @@
 - [x] 119. Xmas tree generator
 - [x] 118. List exercise: return first occurrence indices of duplicated words
 - [x] 117. Round a number even (a.k.a. banker's rounding)
-- [ ] 116. List and filter files in a directory
+- [x] 116. List and filter files in a directory
 - [x] 115. Count leading spaces
 - [x] 114. Implement a Color class with classmethods
 - [x] 113. Filter words with non-ascii characters
