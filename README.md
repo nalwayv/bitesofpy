@@ -103,7 +103,7 @@
 - [ ] 145. Record Breakers
 - [ ] 144. Calculate the Number of Months Passed
 - [x] 143. Look up a value in 3 dictionaries
-- [ ] 142. Exception Handling: Calculate the Winning Player
+- [x] 142. Exception Handling: Calculate the Winning Player
 - [ ] 141. Primitive date format inferrer
 - [ ] 140. PyBites First Pandas Bite
 - [ ] 139. Calculate a coding streak in days
@@ -210,7 +210,7 @@
 - [x] 38. Using ElementTree to parse XML
 - [x] 37. Rewrite a for loop using recursion
 - [x] 36. Having fun with *args and **kwargs
-- [ ] 35. Having fun with heapq
+- [x] 35. Having fun with heapq
 - [ ] 34. Building a Karma app - implement the User class
 - [x] 33. Transpose a data structure
 - [x] 32. Don't let mutability fool you
