@@ -1,0 +1,4 @@
+creatureId,icon,isAquatic,isFlying,isGround,isJumping,itemId,name,qualityId,spellId
+32158,ability_mount_drake_blue,False,True,True,False,44178,Albino Drake,4,60025
+63502,ability_mount_hordescorpionamber,True,False,True,True,85262,Amber Scorpion,4,123886
+24487,ability_mount_warhippogryph,False,True,True,False,45725,Argent Hippogryph,4,232412

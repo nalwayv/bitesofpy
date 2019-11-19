@@ -1,0 +1,4 @@
+creatureId,icon,isAquatic,isFlying,isGround,isJumping,itemId,name,qualityId,spellId
+71381,ability_mount_dragonhawkarmorallliance,False,True,True,False,98259,Armored Blue Dragonhawk,4,142478
+304,spell_nature_swiftness,True,False,True,True,0,Felsteed,1,5784
+119386,inv_warlockmount,False,True,True,False,0,Netherlord's Chaotic Wrathsteed,1,232412

@@ -18,7 +18,7 @@
 - [ ] 230. Thumbs up for operator overloading
 - [ ] 229. Scrape best programming books
 - [ ] 228. Create a Gravatar URL
-- [ ] 227. Convert Warcraft json data to csv
+- [x] 227. Convert Warcraft json data to csv
 - [ ] 226. Get top titles from news.python.sc
 - [x] 225. Swap case PyBites characters
 - [x] 224. Get sentences from a text
