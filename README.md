@@ -188,8 +188,8 @@
 - [x] 60. Create a deck of Uno cards
 - [x] 59. Create a multiplication table class of variable length
 - [ ] 58. Using argparse to interface with a grocery cart
-- [ ] 57. Create a simple calculator that receives command line arguments
-- [ ] 56. Add a command line interface to our BMI calculator
+- [x] 57. Create a simple calculator that receives command line arguments
+- [x] 56. Add a command line interface to our BMI calculator
 - [x] 55. Get the latest game releases from Steam's RSS feed
 - [ ] 54. Nicer formatting of a poem or text
 - [x] 53. Convert text into multiple columns
