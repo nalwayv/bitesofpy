@@ -1,0 +1,755 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2019-11-20T23:38:01-05:00",
+  "results": {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2019-11-16",
+    "published_date": "2019-12-01",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2019-11-24",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399180192",
+        "primary_isbn13": "9780399180194",
+        "publisher": "Putnam",
+        "description": "The 26th book in the Stephanie Plum series. A New Jersey gangster\u2019s associates go after a bounty hunter\u2019s widowed grandmother.",
+        "price": 0,
+        "title": "TWISTED TWENTY-SIX",
+        "author": "Janet Evanovich",
+        "contributor": "by Janet Evanovich",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399180194.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Twisted-Twenty-Six-Stephanie-Janet-Evanovich/dp/0399180192?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [{ "isbn10": "0399180192", "isbn13": "9780399180194" }],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Twisted-Twenty-Six-Stephanie-Janet-Evanovich/dp/0399180192?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=TWISTED+TWENTY-SIX&author=Janet+Evanovich"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399180194"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780399180194?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/5c932315-24db-58ed-b4ab-8313b37ab918"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385544189",
+        "primary_isbn13": "9780385544184",
+        "publisher": "Doubleday",
+        "description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+        "price": 0,
+        "title": "THE GUARDIANS",
+        "author": "John Grisham",
+        "contributor": "by John Grisham",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385544184.jpg",
+        "book_image_width": 330,
+        "book_image_height": 481,
+        "amazon_product_url": "https://www.amazon.com/Guardians-Novel-John-Grisham/dp/0385544189?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0385544189", "isbn13": "9780385544184" },
+          { "isbn10": "0525639365", "isbn13": "9780525639367" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Guardians-Novel-John-Grisham/dp/0385544189?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+GUARDIANS&author=John+Grisham"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385544184"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780385544184?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/34587156-73ec-5121-946b-482b51beaf6c"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 1,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399593543",
+        "primary_isbn13": "9780399593543",
+        "publisher": "Delacorte",
+        "description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+        "price": 0,
+        "title": "BLUE MOON",
+        "author": "Lee Child",
+        "contributor": "by Lee Child",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399593543.jpg",
+        "book_image_width": 320,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Blue-Moon-Jack-Reacher-Novel/dp/0399593543?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0399593543", "isbn13": "9780399593543" },
+          { "isbn10": "1524774359", "isbn13": "9781524774356" },
+          { "isbn10": "1984882678", "isbn13": "9781984882677" },
+          { "isbn10": "198488266X", "isbn13": "9781984882660" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Blue-Moon-Jack-Reacher-Novel/dp/0399593543?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=BLUE+MOON&author=Lee+Child"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399593543"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780399593543?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/283205a1-55a7-5e0b-89c0-a96765034edc"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 4,
+        "weeks_on_list": 63,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0735219095",
+        "primary_isbn13": "9780735219090",
+        "publisher": "Putnam",
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "price": 0,
+        "title": "WHERE THE CRAWDADS SING",
+        "author": "Delia Owens",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780735219090.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0735219095", "isbn13": "9780735219090" },
+          { "isbn10": "0735219117", "isbn13": "9780735219113" },
+          { "isbn10": "0525640371", "isbn13": "9780525640370" },
+          { "isbn10": "0593105419", "isbn13": "9780593105412" },
+          { "isbn10": "0593187989", "isbn13": "9780593187982" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=WHERE+THE+CRAWDADS+SING&author=Delia+Owens"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780735219090?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 5,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316485616",
+        "primary_isbn13": "9780316485616",
+        "publisher": "Little, Brown",
+        "description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+        "price": 0,
+        "title": "THE NIGHT FIRE",
+        "author": "Michael Connelly",
+        "contributor": "by Michael Connelly",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316485616.jpg",
+        "book_image_width": 324,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Night-Ren\u00e9e-Ballard-Harry-Bosch/dp/0316485616?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0316485616", "isbn13": "9780316485616" },
+          { "isbn10": "0316426067", "isbn13": "9780316426060" },
+          { "isbn10": "1549120786", "isbn13": "9781549120787" },
+          { "isbn10": "1549120778", "isbn13": "9781549120770" },
+          { "isbn10": "154912076X", "isbn13": "9781549120763" },
+          { "isbn10": "1549120751", "isbn13": "9781549120756" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Night-Ren\u00e9e-Ballard-Harry-Bosch/dp/0316485616?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+NIGHT+FIRE&author=Michael+Connelly"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316485616"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780316485616?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/6a9c9283-074f-507c-8579-5284d5ec7c76"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 9,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062963678",
+        "primary_isbn13": "9780062963673",
+        "publisher": "Harper",
+        "description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+        "price": 0,
+        "title": "THE DUTCH HOUSE",
+        "author": "Ann Patchett",
+        "contributor": "by Ann Patchett",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062963673.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/09/21/books/review-dutch-house-ann-patchett.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0062963678", "isbn13": "9780062963673" },
+          { "isbn10": "0062963694", "isbn13": "9780062963697" },
+          { "isbn10": "0062963708", "isbn13": "9780062963703" },
+          { "isbn10": "0062963724", "isbn13": "9780062963727" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Dutch-House-Novel-Ann-Patchett/dp/0062963678?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+DUTCH+HOUSE&author=Ann+Patchett"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062963673"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780062963673?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/0ad5db6c-4d15-5624-bef3-1385f93f78e2"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 10,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0812996542",
+        "primary_isbn13": "9780812996548",
+        "publisher": "Random House",
+        "description": "In a follow-up to the Pulitzer Prize-winning novel \u201cOlive Kitteridge,\u201d new relationships, including a second marriage, are encountered in a seaside town in Maine.",
+        "price": 0,
+        "title": "OLIVE, AGAIN",
+        "author": "Elizabeth Strout",
+        "contributor": "by Elizabeth Strout",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780812996548.jpg",
+        "book_image_width": 327,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Olive-Again-Novel-Elizabeth-Strout/dp/0812996542?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/10/15/books/review/elizabeth-strout-olive-again.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0812996542", "isbn13": "9780812996548" },
+          { "isbn10": "1643583816", "isbn13": "9781643583815" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Olive-Again-Novel-Elizabeth-Strout/dp/0812996542?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=OLIVE%2C+AGAIN&author=Elizabeth+Strout"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812996548"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780812996548?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/738ec7a9-1834-5cbf-a9e0-d53d9b7dd6e0"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 8,
+        "weeks_on_list": 10,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982110562",
+        "primary_isbn13": "9781982110567",
+        "publisher": "Scribner",
+        "description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+        "price": 0,
+        "title": "THE INSTITUTE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9781982110567.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/09/08/books/review-institute-stephen-king.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "1982110562", "isbn13": "9781982110567" },
+          { "isbn10": "1982110597", "isbn13": "9781982110598" },
+          { "isbn10": "1508279071", "isbn13": "9781508279075" },
+          { "isbn10": "1508279063", "isbn13": "9781508279068" },
+          { "isbn10": "1432870122", "isbn13": "9781432870126" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Institute-Novel-Stephen-King/dp/1982110562?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+INSTITUTE&author=Stephen+King"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982110567"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9781982110567?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/ef08eed0-f900-53fe-9764-da9152bd5e8f"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 3,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "038554121X",
+        "primary_isbn13": "9780385541213",
+        "publisher": "Doubleday",
+        "description": "Zachary Ezra Rawlins fights to save a labyrinthine underground repository of stories.",
+        "price": 0,
+        "title": "THE STARLESS SEA",
+        "author": "Erin Morgenstern",
+        "contributor": "by Erin Morgenstern",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385541213.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Starless-Sea-Novel-Erin-Morgenstern/dp/038554121X?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/10/25/books/review/starless-sea-erin-morgenstern.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "038554121X", "isbn13": "9780385541213" },
+          { "isbn10": "0385541228", "isbn13": "9780385541220" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Starless-Sea-Novel-Erin-Morgenstern/dp/038554121X?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+STARLESS+SEA&author=Erin+Morgenstern"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385541213"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780385541213?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/03931c8f-e230-5bcd-966e-5b66397ebb35"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 6,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399562486",
+        "primary_isbn13": "9780399562488",
+        "publisher": "Pamela Dorman/Viking",
+        "description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+        "price": 0,
+        "title": "THE GIVER OF STARS",
+        "author": "Jojo Moyes",
+        "contributor": "by Jojo Moyes",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399562501.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes/dp/0399562486?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0399562486", "isbn13": "9780399562488" },
+          { "isbn10": "0399562508", "isbn13": "9780399562501" },
+          { "isbn10": "0525530193", "isbn13": "9780525530190" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes/dp/0399562486?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+GIVER+OF+STARS&author=Jojo+Moyes"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399562488"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780399562488?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/0365e66e-8090-5ec1-8d8c-2ed89027d374"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 0,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385543786",
+        "primary_isbn13": "9780385543781",
+        "publisher": "Nan A. Talese/Doubleday",
+        "description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+        "price": 0,
+        "title": "THE TESTAMENTS",
+        "author": "Margaret Atwood",
+        "contributor": "by Margaret Atwood",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780385543781.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0385543786", "isbn13": "9780385543781" },
+          { "isbn10": "0385543794", "isbn13": "9780385543798" },
+          { "isbn10": "0525590455", "isbn13": "9780525590453" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Testaments-Sequel-Handmaids-Tale/dp/0385543786?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+TESTAMENTS&author=Margaret+Atwood"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385543781"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780385543781?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/e1e18717-04bb-51a2-942a-45743507535f"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 14,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316420271",
+        "primary_isbn13": "9780316420273",
+        "publisher": "Little, Brown",
+        "description": "In the 19th installment of the Women's Murder Club series, detective Lindsay Boxer and company take on a fearsome criminal known only as \"Loman.\"",
+        "price": 0,
+        "title": "THE 19TH CHRISTMAS",
+        "author": "James Patterson and Maxine Paetro",
+        "contributor": "by James Patterson and Maxine Paetro",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780316494021.jpg",
+        "book_image_width": 321,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/19th-Christmas-Womens-Murder-Club-ebook/dp/B07P1SSF9S?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0316420271", "isbn13": "9780316420273" },
+          { "isbn10": "031649402X", "isbn13": "9780316494021" },
+          { "isbn10": "1549120964", "isbn13": "9781549120961" },
+          { "isbn10": "1549120948", "isbn13": "9781549120947" },
+          { "isbn10": "154912093X", "isbn13": "9781549120930" },
+          { "isbn10": "1549120956", "isbn13": "9781549120954" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/19th-Christmas-Womens-Murder-Club-ebook/dp/B07P1SSF9S?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+19TH+CHRISTMAS&author=James+Patterson+and+Maxine+Paetro"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316420273"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780316420273?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/8a6cd41d-3325-5e3d-a20e-7e051a28014e"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062473271",
+        "primary_isbn13": "9780062473271",
+        "publisher": "Harper",
+        "description": "A team of experts is assembled to stop an evolving and potentially apocalyptic microbe.",
+        "price": 0,
+        "title": "MICHAEL CRICHTON: THE ANDROMEDA EVOLUTION",
+        "author": "Daniel H Wilson",
+        "contributor": "by Daniel H. Wilson",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062473271.jpg",
+        "book_image_width": 329,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Andromeda-Evolution-Michael-Crichton/dp/0062473271?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0062473271", "isbn13": "9780062473271" },
+          { "isbn10": "006247328X", "isbn13": "9780062473288" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Andromeda-Evolution-Michael-Crichton/dp/0062473271?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=MICHAEL+CRICHTON%3A+THE+ANDROMEDA+EVOLUTION&author=Daniel+H+Wilson"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062473271"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780062473271?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/789e03da-e2d6-5dbe-b1d7-78c0b88dd2f4"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 13,
+        "weeks_on_list": 8,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399590595",
+        "primary_isbn13": "9780399590597",
+        "publisher": "One World",
+        "description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+        "price": 0,
+        "title": "THE WATER DANCER",
+        "author": "Ta-Nehisi Coates",
+        "contributor": "by Ta-Nehisi Coates",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780399590597.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Water-Dancer-Oprahs-Book-Club/dp/0399590595?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/09/20/books/review-water-dancer-ta-nehisi-coates.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          { "isbn10": "0399590595", "isbn13": "9780399590597" },
+          { "isbn10": "0525494847", "isbn13": "9780525494843" }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Water-Dancer-Oprahs-Book-Club/dp/0399590595?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+WATER+DANCER&author=Ta-Nehisi+Coates"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399590597"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780399590597?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/30d61b66-0e7d-582c-a3ab-ddce005d5361"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062913468",
+        "primary_isbn13": "9780062913463",
+        "publisher": "Ecco",
+        "description": "Madison enlists her former boarding school roommate to look after her twin stepchildren, who burst into flames when agitated.",
+        "price": 0,
+        "title": "NOTHING TO SEE HERE",
+        "author": "Kevin Wilson",
+        "contributor": "by Kevin Wilson",
+        "contributor_note": "",
+        "book_image": "https://s1.nyt.com/du/books/images/9780062913463.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Nothing-See-Here-Kevin-Wilson/dp/0062913468?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [{ "isbn10": "0062913468", "isbn13": "9780062913463" }],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Nothing-See-Here-Kevin-Wilson/dp/0062913468?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "http://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=NOTHING+TO+SEE+HERE&author=Kevin+Wilson"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062913463"
+          },
+          {
+            "name": "Local Booksellers",
+            "url": "http://www.indiebound.org/book/9780062913463?aff=NYT"
+          }
+        ],
+        "book_uri": "nyt://book/bd4affc2-4dd2-5768-adf8-cb01aad07e75"
+      }
+    ],
+    "corrections": []
+  }
+}

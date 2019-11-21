@@ -24,7 +24,7 @@
 - [x] 224. Get sentences from a text
 - [ ] 223. Unix file permissions
 - [x] 222. Split an iterable in groups of size n
-- [ ] 221. Parse best selling lists using the NY Times API
+- [x] 221. Parse best selling lists using the NY Times API
 - [ ] 220. Analysing @pythonbytes RSS feed
 - [ ] 219. Bite notification planner
 - [x] 218. Create a sandwich decorator
@@ -54,7 +54,7 @@
 - [ ] 194. Add caching to a Fibonacci function
 - [ ] 193. Most upvoted StackOverflow Python questions
 - [ ] 192. Some logging practice
-- [ ] 191. Starwars character with highest BMI
+- [x] 191. Starwars character with highest BMI
 - [ ] 190. Parse income distribution from Latin America XML
 - [x] 189. Filter a list of names
 - [x] 188. Get statistics from PyBites test code
@@ -83,7 +83,7 @@
 - [x] 165. Parse an /etc/passwd file output
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
 - [ ] 163. Which packages were upgraded?
-- [ ] 162. Vertically align output of counters
+- [x] 162. Vertically align output of counters
 - [x] 161. Count the number of files and directories
 - [ ] 160. 15-way Rock Paper Scissors
 - [x] 159. Create a simple calculator
@@ -191,7 +191,7 @@
 - [x] 57. Create a simple calculator that receives command line arguments
 - [x] 56. Add a command line interface to our BMI calculator
 - [x] 55. Get the latest game releases from Steam's RSS feed
-- [ ] 54. Nicer formatting of a poem or text
+- [x] 54. Nicer formatting of a poem or text
 - [x] 53. Convert text into multiple columns
 - [x] 52. Create a movie quote API with Flask
 - [ ] 51. When does Python 2 die on Planet Miller?
