@@ -117,7 +117,7 @@
 - [ ] 131. Screen scraper
 - [x] 130. Analyze some basic Car Data
 - [x] 129. Analyze Stock Data
-- [ ] 128. Work with datetime's strptime and strftime
+- [x] 128. Work with datetime's strptime and strftime
 - [x] 127. Return the right ordinal suffix for a number
 - [ ] 126. The Emoji (Unicode) Bite
 - [x] 125. Get the most recommended books
