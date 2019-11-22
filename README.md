@@ -101,7 +101,7 @@
 - [ ] 147. 100 WEEKDays of Code Date Range
 - [ ] 146. Rhombus generator
 - [ ] 145. Record Breakers
-- [ ] 144. Calculate the Number of Months Passed
+- [x] 144. Calculate the Number of Months Passed
 - [x] 143. Look up a value in 3 dictionaries
 - [x] 142. Exception Handling: Calculate the Winning Player
 - [ ] 141. Primitive date format inferrer
