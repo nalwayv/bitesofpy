@@ -162,7 +162,7 @@
 - [x] 86. Create a RGB-to-Hex converter
 - [ ] 85. Write an advanced property
 - [x] 84. Flatten lists recursively (Droste Bite)
-- [ ] 83. At what time does PyBites live?
+- [x] 83. At what time does PyBites live?
 - [ ] 82. Define a Score Enum and customize it adding methods
 - [ ] 81. Filter and order tweets by polarity values
 - [x] 80. Check equality of two lists
