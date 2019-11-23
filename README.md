@@ -99,7 +99,7 @@
 - [x] 149. Sorting words with constraint
 - [x] 148. Print Car Data Grouped by Manufacturer
 - [ ] 147. 100 WEEKDays of Code Date Range
-- [ ] 146. Rhombus generator
+- [x] 146. Rhombus generator
 - [ ] 145. Record Breakers
 - [x] 144. Calculate the Number of Months Passed
 - [x] 143. Look up a value in 3 dictionaries
