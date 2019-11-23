@@ -79,7 +79,7 @@
 - [x] 169. Simple length converter
 - [ ] 168. Ninja Rankings
 - [x] 167. Complete a User class: properties and representation dunder methods
-- [ ] 166. Complete a tox ini file parser class
+- [x] 166. Complete a tox ini file parser class
 - [x] 165. Parse an /etc/passwd file output
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
 - [ ] 163. Which packages were upgraded?
