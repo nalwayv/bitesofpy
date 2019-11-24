@@ -8,6 +8,9 @@
 
 
 #
+- [ ] 240. Write tests for an Account class
+- [ ] 239. Test FizzBuzz
+- [ ] 238. Write tests for Fibonacci
 - [ ] 237. Get the dates Ninja belts were earned
 - [ ] 236. User experience matters! Suggest matching files
 - [ ] 235. Which Bite has the fastest tests?
@@ -211,7 +214,7 @@
 - [x] 37. Rewrite a for loop using recursion
 - [x] 36. Having fun with *args and **kwargs
 - [x] 35. Having fun with heapq
-- [ ] 34. Building a Karma app - implement the User class
+- [x] 34. Building a Karma app - implement the User class
 - [x] 33. Transpose a data structure
 - [x] 32. Don't let mutability fool you
 - [ ] 31. Matrix multiplication / @ operator
