@@ -217,7 +217,7 @@
 - [x] 34. Building a Karma app - implement the User class
 - [x] 33. Transpose a data structure
 - [x] 32. Don't let mutability fool you
-- [ ] 31. Matrix multiplication / @ operator
+- [x] 31. Matrix multiplication / @ operator
 - [x] 30. Movie data analysis
 - [x] 29. Martin's IQ test
 - [ ] 28. Converting date strings to datetimes
