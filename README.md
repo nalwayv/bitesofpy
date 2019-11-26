@@ -85,7 +85,7 @@
 - [x] 166. Complete a tox ini file parser class
 - [x] 165. Parse an /etc/passwd file output
 - [ ] 164. CLI tool: HTML link converter (stdin to stdout)
-- [ ] 163. Which packages were upgraded?
+- [x] 163. Which packages were upgraded?
 - [x] 162. Vertically align output of counters
 - [x] 161. Count the number of files and directories
 - [ ] 160. 15-way Rock Paper Scissors
