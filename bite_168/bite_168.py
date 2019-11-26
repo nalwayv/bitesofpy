@@ -63,20 +63,87 @@ class Rankings:
         return len(self.rankings)
 
     def add(self, ninja: "Ninja"):
+        """add
+
+        add a new ninja
+        
+        Parameters
+        ----------
+        ninja : Ninja, 
+            a Ninja class object
+        
+        Raises
+        ------
+        ValueError
+        """
+        if not isinstance(ninja, Ninja):
+            raise ValueError('not a ninja')
+
         self.rankings.append(ninja)
         self.rankings.sort(key=lambda x: x.bites, reverse=True)
 
-    def dump(self):
+    def dump(self) -> Ninja:
+        """dump
+
+        remove ninja with lowest bites
+        
+        Returns
+        -------
+        Ninja
+            ninja with lowest bites
+        """
         last = self.rankings.pop()
         return last
 
-    def highest(self, count: int = 1):
+    def highest(self, count: int = 1) -> List[Ninja]:
+        """highest
+
+        return highest ranked ninjas
+        
+        Parameters
+        ----------
+        count : int, optional,
+            amount to get, by default 1
+        
+        Returns
+        -------
+        List[Ninja]
+            ninjas with highest bites
+        """
         return self.rankings[:count]
 
-    def lowest(self, count: int = 1):
+    def lowest(self, count: int = 1) -> List[Ninja]:
+        """lowest
+
+        return ninjas with lowest rankings
+        
+        Parameters
+        ----------
+        count : int, optional,
+            amount to get, by default 1
+        
+        Returns
+        -------
+        List[Ninja]
+            ninjas with loest bites
+        """
         return self.rankings[-count:][::-1]
 
-    def pair_up(self, count: int = 3):
+    def pair_up(self, count: int = 3) -> List[Tuple[Ninja, Ninja]]:
+        """pair_up
+
+        return list of tuples with highest ninjas pairs with lowest ninjas
+        
+        Parameters
+        ----------
+        count : int, optional,
+            amount to get, by default 3
+        
+        Returns
+        -------
+        List[Tuple[Ninja, Ninja]]
+            pairs of ninjas
+        """
         high = self.highest(count)
         low = self.lowest(count)
         return list(zip(high, low))
