@@ -61,7 +61,7 @@
 - [ ] 190. Parse income distribution from Latin America XML
 - [x] 189. Filter a list of names
 - [x] 188. Get statistics from PyBites test code
-- [ ] 187. Actor/actress age at movie release
+- [x] 187. Actor/actress age at movie release
 - [ ] 186. Calculate number of books to have read at date
 - [ ] 185. Create a simple spelling suggester
 - [x] 184. Analyze some Bite stats data
