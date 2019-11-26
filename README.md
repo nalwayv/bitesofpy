@@ -80,7 +80,7 @@
 - [x] 171. Make a terminal spinner animation
 - [ ] 170. Analyze McDonald's food data
 - [x] 169. Simple length converter
-- [ ] 168. Ninja Rankings
+- [x] 168. Ninja Rankings
 - [x] 167. Complete a User class: properties and representation dunder methods
 - [x] 166. Complete a tox ini file parser class
 - [x] 165. Parse an /etc/passwd file output
