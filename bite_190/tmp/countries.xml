@@ -1,0 +1,464 @@
+<wb:countries xmlns:wb="http://www.worldbank.org" page="1" pages="1" per_page="50" total="42">
+    <wb:country id="ABW">
+        <wb:iso2Code>AW</wb:iso2Code>
+        <wb:name>Aruba</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean</wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Oranjestad</wb:capitalCity>
+        <wb:longitude>-70.0167</wb:longitude>
+        <wb:latitude>12.5167</wb:latitude>
+    </wb:country>
+    <wb:country id="ARG">
+        <wb:iso2Code>AR</wb:iso2Code>
+        <wb:name>Argentina</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Buenos Aires</wb:capitalCity>
+        <wb:longitude>-58.4173</wb:longitude>
+        <wb:latitude>-34.6118</wb:latitude>
+    </wb:country>
+    <wb:country id="ATG">
+        <wb:iso2Code>AG</wb:iso2Code>
+        <wb:name>Antigua and Barbuda</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Saint John's</wb:capitalCity>
+        <wb:longitude>-61.8456</wb:longitude>
+        <wb:latitude>17.1175</wb:latitude>
+    </wb:country>
+    <wb:country id="BHS">
+        <wb:iso2Code>BS</wb:iso2Code>
+        <wb:name>Bahamas, The</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Nassau</wb:capitalCity>
+        <wb:longitude>-77.339</wb:longitude>
+        <wb:latitude>25.0661</wb:latitude>
+    </wb:country>
+    <wb:country id="BLZ">
+        <wb:iso2Code>BZ</wb:iso2Code>
+        <wb:name>Belize</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Belmopan</wb:capitalCity>
+        <wb:longitude>-88.7713</wb:longitude>
+        <wb:latitude>17.2534</wb:latitude>
+    </wb:country>
+    <wb:country id="BOL">
+        <wb:iso2Code>BO</wb:iso2Code>
+        <wb:name>Bolivia</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>La Paz</wb:capitalCity>
+        <wb:longitude>-66.1936</wb:longitude>
+        <wb:latitude>-13.9908</wb:latitude>
+    </wb:country>
+    <wb:country id="BRA">
+        <wb:iso2Code>BR</wb:iso2Code>
+        <wb:name>Brazil</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Brasilia</wb:capitalCity>
+        <wb:longitude>-47.9292</wb:longitude>
+        <wb:latitude>-15.7801</wb:latitude>
+    </wb:country>
+    <wb:country id="BRB">
+        <wb:iso2Code>BB</wb:iso2Code>
+        <wb:name>Barbados</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Bridgetown</wb:capitalCity>
+        <wb:longitude>-59.6105</wb:longitude>
+        <wb:latitude>13.0935</wb:latitude>
+    </wb:country>
+    <wb:country id="CHL">
+        <wb:iso2Code>CL</wb:iso2Code>
+        <wb:name>Chile</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Santiago</wb:capitalCity>
+        <wb:longitude>-70.6475</wb:longitude>
+        <wb:latitude>-33.475</wb:latitude>
+    </wb:country>
+    <wb:country id="COL">
+        <wb:iso2Code>CO</wb:iso2Code>
+        <wb:name>Colombia</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Bogota</wb:capitalCity>
+        <wb:longitude>-74.082</wb:longitude>
+        <wb:latitude>4.60987</wb:latitude>
+    </wb:country>
+    <wb:country id="CRI">
+        <wb:iso2Code>CR</wb:iso2Code>
+        <wb:name>Costa Rica</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>San Jose</wb:capitalCity>
+        <wb:longitude>-84.0089</wb:longitude>
+        <wb:latitude>9.63701</wb:latitude>
+    </wb:country>
+    <wb:country id="CUB">
+        <wb:iso2Code>CU</wb:iso2Code>
+        <wb:name>Cuba</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Havana</wb:capitalCity>
+        <wb:longitude>-82.3667</wb:longitude>
+        <wb:latitude>23.1333</wb:latitude>
+    </wb:country>
+    <wb:country id="CUW">
+        <wb:iso2Code>CW</wb:iso2Code>
+        <wb:name>Curacao</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Willemstad</wb:capitalCity>
+        <wb:longitude/>
+        <wb:latitude/>
+    </wb:country>
+    <wb:country id="CYM">
+        <wb:iso2Code>KY</wb:iso2Code>
+        <wb:name>Cayman Islands</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>George Town</wb:capitalCity>
+        <wb:longitude>-81.3857</wb:longitude>
+        <wb:latitude>19.3022</wb:latitude>
+    </wb:country>
+    <wb:country id="DMA">
+        <wb:iso2Code>DM</wb:iso2Code>
+        <wb:name>Dominica</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IDB" iso2code="XH">Blend</wb:lendingType>
+        <wb:capitalCity>Roseau</wb:capitalCity>
+        <wb:longitude>-61.39</wb:longitude>
+        <wb:latitude>15.2976</wb:latitude>
+    </wb:country>
+    <wb:country id="DOM">
+        <wb:iso2Code>DO</wb:iso2Code>
+        <wb:name>Dominican Republic</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Santo Domingo</wb:capitalCity>
+        <wb:longitude>-69.8908</wb:longitude>
+        <wb:latitude>18.479</wb:latitude>
+    </wb:country>
+    <wb:country id="ECU">
+        <wb:iso2Code>EC</wb:iso2Code>
+        <wb:name>Ecuador</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Quito</wb:capitalCity>
+        <wb:longitude>-78.5243</wb:longitude>
+        <wb:latitude>-0.229498</wb:latitude>
+    </wb:country>
+    <wb:country id="GRD">
+        <wb:iso2Code>GD</wb:iso2Code>
+        <wb:name>Grenada</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IDB" iso2code="XH">Blend</wb:lendingType>
+        <wb:capitalCity>Saint George's</wb:capitalCity>
+        <wb:longitude>-61.7449</wb:longitude>
+        <wb:latitude>12.0653</wb:latitude>
+    </wb:country>
+    <wb:country id="GTM">
+        <wb:iso2Code>GT</wb:iso2Code>
+        <wb:name>Guatemala</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Guatemala City</wb:capitalCity>
+        <wb:longitude>-90.5328</wb:longitude>
+        <wb:latitude>14.6248</wb:latitude>
+    </wb:country>
+    <wb:country id="GUY">
+        <wb:iso2Code>GY</wb:iso2Code>
+        <wb:name>Guyana</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+        <wb:capitalCity>Georgetown</wb:capitalCity>
+        <wb:longitude>-58.1548</wb:longitude>
+        <wb:latitude>6.80461</wb:latitude>
+    </wb:country>
+    <wb:country id="HND">
+        <wb:iso2Code>HN</wb:iso2Code>
+        <wb:name>Honduras</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+        <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+        <wb:capitalCity>Tegucigalpa</wb:capitalCity>
+        <wb:longitude>-87.4667</wb:longitude>
+        <wb:latitude>15.1333</wb:latitude>
+    </wb:country>
+    <wb:country id="HTI">
+        <wb:iso2Code>HT</wb:iso2Code>
+        <wb:name>Haiti</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+        <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+        <wb:capitalCity>Port-au-Prince</wb:capitalCity>
+        <wb:longitude>-72.3288</wb:longitude>
+        <wb:latitude>18.5392</wb:latitude>
+    </wb:country>
+    <wb:country id="JAM">
+        <wb:iso2Code>JM</wb:iso2Code>
+        <wb:name>Jamaica</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Kingston</wb:capitalCity>
+        <wb:longitude>-76.792</wb:longitude>
+        <wb:latitude>17.9927</wb:latitude>
+    </wb:country>
+    <wb:country id="KNA">
+        <wb:iso2Code>KN</wb:iso2Code>
+        <wb:name>St. Kitts and Nevis</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Basseterre</wb:capitalCity>
+        <wb:longitude>-62.7309</wb:longitude>
+        <wb:latitude>17.3</wb:latitude>
+    </wb:country>
+    <wb:country id="LCA">
+        <wb:iso2Code>LC</wb:iso2Code>
+        <wb:name>St. Lucia</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IDB" iso2code="XH">Blend</wb:lendingType>
+        <wb:capitalCity>Castries</wb:capitalCity>
+        <wb:longitude>-60.9832</wb:longitude>
+        <wb:latitude>14</wb:latitude>
+    </wb:country>
+    <wb:country id="MAF">
+        <wb:iso2Code>MF</wb:iso2Code>
+        <wb:name>St. Martin (French part)</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Marigot</wb:capitalCity>
+        <wb:longitude/>
+        <wb:latitude/>
+    </wb:country>
+    <wb:country id="MEX">
+        <wb:iso2Code>MX</wb:iso2Code>
+        <wb:name>Mexico</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Mexico City</wb:capitalCity>
+        <wb:longitude>-99.1276</wb:longitude>
+        <wb:latitude>19.427</wb:latitude>
+    </wb:country>
+    <wb:country id="NIC">
+        <wb:iso2Code>NI</wb:iso2Code>
+        <wb:name>Nicaragua</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+        <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+        <wb:capitalCity>Managua</wb:capitalCity>
+        <wb:longitude>-86.2734</wb:longitude>
+        <wb:latitude>12.1475</wb:latitude>
+    </wb:country>
+    <wb:country id="PAN">
+        <wb:iso2Code>PA</wb:iso2Code>
+        <wb:name>Panama</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Panama City</wb:capitalCity>
+        <wb:longitude>-79.5188</wb:longitude>
+        <wb:latitude>8.99427</wb:latitude>
+    </wb:country>
+    <wb:country id="PER">
+        <wb:iso2Code>PE</wb:iso2Code>
+        <wb:name>Peru</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Lima</wb:capitalCity>
+        <wb:longitude>-77.0465</wb:longitude>
+        <wb:latitude>-12.0931</wb:latitude>
+    </wb:country>
+    <wb:country id="PRI">
+        <wb:iso2Code>PR</wb:iso2Code>
+        <wb:name>Puerto Rico</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>San Juan</wb:capitalCity>
+        <wb:longitude>-66</wb:longitude>
+        <wb:latitude>18.23</wb:latitude>
+    </wb:country>
+    <wb:country id="PRY">
+        <wb:iso2Code>PY</wb:iso2Code>
+        <wb:name>Paraguay</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Asuncion</wb:capitalCity>
+        <wb:longitude>-57.6362</wb:longitude>
+        <wb:latitude>-25.3005</wb:latitude>
+    </wb:country>
+    <wb:country id="SLV">
+        <wb:iso2Code>SV</wb:iso2Code>
+        <wb:name>El Salvador</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="LMC" iso2code="XN">Lower middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>San Salvador</wb:capitalCity>
+        <wb:longitude>-89.2073</wb:longitude>
+        <wb:latitude>13.7034</wb:latitude>
+    </wb:country>
+    <wb:country id="SUR">
+        <wb:iso2Code>SR</wb:iso2Code>
+        <wb:name>Suriname</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Paramaribo</wb:capitalCity>
+        <wb:longitude>-55.1679</wb:longitude>
+        <wb:latitude>5.8232</wb:latitude>
+    </wb:country>
+    <wb:country id="SXM">
+        <wb:iso2Code>SX</wb:iso2Code>
+        <wb:name>Sint Maarten (Dutch part)</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Philipsburg</wb:capitalCity>
+        <wb:longitude/>
+        <wb:latitude/>
+    </wb:country>
+    <wb:country id="TCA">
+        <wb:iso2Code>TC</wb:iso2Code>
+        <wb:name>Turks and Caicos Islands</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Grand Turk</wb:capitalCity>
+        <wb:longitude>-71.141389</wb:longitude>
+        <wb:latitude>21.4602778</wb:latitude>
+    </wb:country>
+    <wb:country id="TTO">
+        <wb:iso2Code>TT</wb:iso2Code>
+        <wb:name>Trinidad and Tobago</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Port-of-Spain</wb:capitalCity>
+        <wb:longitude>-61.4789</wb:longitude>
+        <wb:latitude>10.6596</wb:latitude>
+    </wb:country>
+    <wb:country id="URY">
+        <wb:iso2Code>UY</wb:iso2Code>
+        <wb:name>Uruguay</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Montevideo</wb:capitalCity>
+        <wb:longitude>-56.0675</wb:longitude>
+        <wb:latitude>-34.8941</wb:latitude>
+    </wb:country>
+    <wb:country id="VCT">
+        <wb:iso2Code>VC</wb:iso2Code>
+        <wb:name>St. Vincent and the Grenadines</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IDB" iso2code="XH">Blend</wb:lendingType>
+        <wb:capitalCity>Kingstown</wb:capitalCity>
+        <wb:longitude>-61.2653</wb:longitude>
+        <wb:latitude>13.2035</wb:latitude>
+    </wb:country>
+    <wb:country id="VEN">
+        <wb:iso2Code>VE</wb:iso2Code>
+        <wb:name>Venezuela, RB</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="LAC" iso2code="XJ">Latin America and Caribbean (excluding high income)</wb:adminregion>
+        <wb:incomeLevel id="UMC" iso2code="XT">Upper middle income</wb:incomeLevel>
+        <wb:lendingType id="IBD" iso2code="XF">IBRD</wb:lendingType>
+        <wb:capitalCity>Caracas</wb:capitalCity>
+        <wb:longitude>-69.8371</wb:longitude>
+        <wb:latitude>9.08165</wb:latitude>
+    </wb:country>
+    <wb:country id="VGB">
+        <wb:iso2Code>VG</wb:iso2Code>
+        <wb:name>British Virgin Islands</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Road Town</wb:capitalCity>
+        <wb:longitude>-64.623056</wb:longitude>
+        <wb:latitude>18.431389</wb:latitude>
+    </wb:country>
+    <wb:country id="VIR">
+        <wb:iso2Code>VI</wb:iso2Code>
+        <wb:name>Virgin Islands (U.S.)</wb:name>
+        <wb:region id="LCN" iso2code="ZJ">Latin America and Caribbean </wb:region>
+        <wb:adminregion id="" iso2code=""/>
+        <wb:incomeLevel id="HIC" iso2code="XD">High income</wb:incomeLevel>
+        <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+        <wb:capitalCity>Charlotte Amalie</wb:capitalCity>
+        <wb:longitude>-64.8963</wb:longitude>
+        <wb:latitude>18.3358</wb:latitude>
+    </wb:country>
+</wb:countries>

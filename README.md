@@ -58,7 +58,7 @@
 - [ ] 193. Most upvoted StackOverflow Python questions
 - [ ] 192. Some logging practice
 - [x] 191. Starwars character with highest BMI
-- [ ] 190. Parse income distribution from Latin America XML
+- [x] 190. Parse income distribution from Latin America XML
 - [x] 189. Filter a list of names
 - [x] 188. Get statistics from PyBites test code
 - [x] 187. Actor/actress age at movie release
