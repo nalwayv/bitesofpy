@@ -70,7 +70,7 @@
 - [ ] 181. Keep a list sorted upon insert
 - [x] 180. Group names by country
 - [x] 179. Strip comments from Python code
-- [ ] 178. Parse PyBites blog git commit log
+- [x] 178. Parse PyBites blog git commit log
 - [ ] 177. Use Pandas to find most common genres in a movie excel sheet
 - [x] 176. Create a variable length chessboard
 - [ ] 175. Find missing dates
