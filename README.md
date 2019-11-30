@@ -18,7 +18,7 @@
 - [ ] 233. Make a zipfile of the latest log files
 - [ ] 232. Analyze gold prices
 - [x] 231. Where are the emojis?
-- [ ] 230. Thumbs up for operator overloading
+- [x] 230. Thumbs up for operator overloading
 - [ ] 229. Scrape best programming books
 - [ ] 228. Create a Gravatar URL
 - [x] 227. Convert Warcraft json data to csv
@@ -166,7 +166,7 @@
 - [x] 85. Write an advanced property
 - [x] 84. Flatten lists recursively (Droste Bite)
 - [x] 83. At what time does PyBites live?
-- [ ] 82. Define a Score Enum and customize it adding methods
+- [x] 82. Define a Score Enum and customize it adding methods
 - [ ] 81. Filter and order tweets by polarity values
 - [x] 80. Check equality of two lists
 - [ ] 79. Parse a csv file and create a bar chart
