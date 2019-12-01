@@ -219,6 +219,7 @@ def print_sequence_route(grid: str, start_coordinates=None) -> None:
         _d = {v[0] for v in values}.pop()
         print(f"{_n} {_d}")
 
+    # last line does not have a direction at the end
     for values in path_taken[-1:]:
         _n = ' '.join([str(v[1]) for v in values])
         print(_n)
