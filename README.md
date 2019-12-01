@@ -8,6 +8,8 @@
 
 
 #
+- [ ] 242. Zodiacal data parsing
+- [ ] 241. Write tests for list_to_decimal
 - [ ] 240. Write tests for an Account class
 - [ ] 239. Test FizzBuzz
 - [ ] 238. Write tests for Fibonacci
