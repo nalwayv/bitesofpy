@@ -150,7 +150,7 @@
 - [x] 101. f-strings and a simple if/else
 - [x] 100. Display the last part of a file (Unix tail)
 - [x] 99. Write an infinite sequence generator
-- [ ] 98. Code your way out of a grid
+- [x] 98. Code your way out of a grid
 - [x] 97. BeautifulSoup II - scrape US holidays
 - [ ] 96. Build Unix' wc program in Python
 - [x] 95. Subclass the dict built-in
