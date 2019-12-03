@@ -52,7 +52,7 @@ class Item:
         data = sorted([(e.max_level, e.id_name) for e in self.enchantments],
                       key=lambda x: x[1])
         ent = '\n  '.join(f"[{e[0]}] {e[1]}" for e in data)
-        name = self.name.replace("_", ' ')
+        name = self.name.replace("_", ' ').title()
         return f"{name}: \n  {ent}"
 
 
