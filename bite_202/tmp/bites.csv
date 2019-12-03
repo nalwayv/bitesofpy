@@ -1,0 +1,204 @@
+﻿Bite;Difficulty
+Bite 1. Sum n numbers;3.45
+Bite 2. Regex Fun;4.89
+Bite 3. Word Values;3.97
+Bite 4. Top 10 PyBites tags;4.72
+Bite 5. Parse a list of names;4.48
+Bite 6. PyBites Die Hard;6.8
+Bite 7. Parsing dates from logs;5.76
+Bite 8. Rotate string characters;3.5
+Bite 9. Palindromes;4.71
+Bite 10. Practice exceptions;3.33
+Bite 11. Enrich a class with dunder methods;4.4
+Bite 12. Write a user validation function;5.2
+Bite 13. Convert dict to namedtuple/json;3.25
+Bite 14. Generate a table of n sequences;6.0
+Bite 15. Enumerate 2 sequences;5.78
+Bite 16. PyBites date generator;6.14
+Bite 17. Form teams from a group of friends;4.09
+Bite 18. Find the most common word;6.43
+Bite 19. Write a simple property;5.83
+Bite 20. Write a context manager;4.6
+Bite 21. Query a nested data structure;5.57
+Bite 22. Write a decorator with argument;5.91
+Bite 23. Find words that are > 95% similar;3.6
+Bite 24. ABC's and class inheritance;6.0
+Bite 25. No promo twice, keep state in a class;4.5
+Bite 26. Dictionary comprehensions are awesome;2.6
+Bite 27. Parse omdb movie json data;3.67
+Bite 28. Converting date strings to datetimes;4.0
+Bite 29. Martin's IQ test;3.4
+Bite 30. Movie data analysis;4.8
+Bite 31. Matrix multiplication / @ operator;9.0
+Bite 32. Don't let mutability fool you;2.0
+Bite 33. Transpose a data structure;3.5
+Bite 34. Building a Karma app - implement the User class;3.75
+Bite 35. Having fun with heapq;3.25
+Bite 36. Having fun with *args and **kwargs;1.67
+Bite 37. Rewrite a for loop using recursion;3.0
+Bite 38. Using ElementTree to parse XML;5.4
+Bite 39. Calculate the total duration of a course;4.5
+Bite 40. Write a binary search algorithm;7.0
+Bite 41. Write a login_required decorator;4.67
+Bite 42. Number Guessing Game Class;7.33
+Bite 43. Force keyword arguments;3.5
+Bite 44. License key generator;3.6
+Bite 45. Keep a queue of last n items;3.2
+Bite 46. You are a programmer! Code Fizz Buzz;1.0
+Bite 47. Write a new password field validator;4.5
+Bite 48. Make a bar chart of new Safari books;6.0
+Bite 49. Scrape Packt's html with BeautifulSoup;5.33
+Bite 50. Make a little PyBites search engine (feedparser);8.67
+Bite 51. When does Python 2 die on Planet Miller?;4.5
+Bite 52. Create a movie quote API with Flask;7.0
+Bite 53. Convert text into multiple columns;5.5
+Bite 54. Nicer formatting of a poem or text;6.4
+Bite 55. Get the latest game releases from Steam's RSS feed;2.2
+Bite 56. Add a command line interface to our BMI calculator;4.67
+Bite 57. Create a simple calculator that receives command line arguments;7.0
+Bite 58. Using argparse to interface with a grocery cart;3.0
+Bite 59. Create a multiplication table class of variable length;5.0
+Bite 60. Create a deck of Uno cards;2.5
+Bite 61. Create a variable size Paw Patrol card deck with random actions;3.5
+Bite 62. Data structures matter - speed up your Python code;3.0
+Bite 63. Use an infinite iterator to simulate a traffic light;1.5
+Bite 64. Fix a truncating zip function;3.78
+Bite 65. Get all valid dictionary words for a draw of letters;6.33
+Bite 66. Calculate the running average of a sequence;3.25
+Bite 67. Working with datetimes;3.08
+Bite 68. Remove punctuation characters from a string;1.5
+Bite 69. Regex Fun - part II;7.33
+Bite 70. Create your own iterator;1.5
+Bite 71. Keep state in a class + make its instance callable;4.67
+Bite 72. Retrieve the right Ninja Belt based on score;3.0
+Bite 73. Organize a meeting between timezones (pytz);5.5
+Bite 74. What day of the week were you born on?;2.0
+Bite 75. Parse Unix cal to a weekday mapping;4.5
+Bite 76. The singledispatch countdown challenge;5.0
+Bite 77. New places to travel to;2.67
+Bite 78. Find programmers with common languages;1.5
+Bite 79. Parse a csv file and create a bar chart;5.5
+Bite 80. Check equality of two lists;3.0
+Bite 81. Filter and order tweets by polarity values;4.0
+Bite 82. Define a Score Enum and customize it adding methods;3.5
+Bite 83. At what time does PyBites live?;3.33
+Bite 84. Flatten lists recursively (Droste Bite);4.0
+Bite 85. Write an advanced property;6.0
+Bite 86. Create a RGB-to-Hex converter;3.67
+Bite 87. Convert Decimal to Roman Numerals;4.0
+Bite 88. Write a performance monitoring context manager;9.5
+Bite 89. Playing with lists and dicts;4.0
+Bite 90. What South Park characters talk most?;8.25
+Bite 91. Matching multiple strings;2.75
+Bite 92. Humanize a datetime;5.5
+Bite 93. Rock-paper-scissors and generator's send;4.0
+Bite 94. Parse PyCon talk data from YouTube;6.5
+Bite 95. Subclass the dict built-in;4.5
+Bite 96. Build Unix' wc program in Python;1.5
+Bite 97. BeautifulSoup II - scrape US bank holidays;4.0
+Bite 98. Code your way out of a grid;7.67
+Bite 99. Write an infinite sequence generator;3.0
+Bite 100. Display the last part of a file (Unix tail);1.0
+Bite 101. f-strings and a simple if/else;3.52
+Bite 102. Infinite loop, input, continue and break;3.59
+Bite 103. Loop through a dictionary and pluralise a word;3.21
+Bite 104. Split and join;2.91
+Bite 105. Slice and dice;5.0
+Bite 106. Strip out vowels and count the number of replacements;4.73
+Bite 107. Filter numbers with a list comprehension;1.89
+Bite 108. Loop over a dict of namedtuples calculating a total score;4.83
+Bite 109. Workout dict lookups and raising an exception;2.75
+Bite 110. Type conversion and exception handling;1.5
+Bite 111. Use the ipinfo API to lookup IP country;1.5
+Bite 112. Social Media Username Validator;5.0
+Bite 113. Filter words with non-ascii characters;1.0
+Bite 114. Implement a Color class with classmethods;6.0
+Bite 115. Count leading spaces;1.0
+Bite 116. List and filter files in a directory;4.0
+Bite 117. Round a number even (a.k.a. banker's rounding);2.67
+Bite 118. List exercise: return first occurrence indices of duplicated words;2.0
+Bite 119. Xmas tree generator;2.0
+Bite 120. Write a numbers validation decorator;3.5
+Bite 121. Determine the strength of a password;5.5
+Bite 122. Check if two words are anagrams;6.0
+Bite 123. Find the user with most friends;6.0
+Bite 124. Marvel data analysis;2.0
+Bite 125. Get the most recommended books;5.0
+Bite 126. The Emoji (Unicode) Bite;5.0
+Bite 127. Return the right ordinal suffix for a number;2.0
+Bite 128. Work with datetime's strptime and strftime;3.0
+Bite 129. Analyze Stock Data;4.5
+Bite 130. Analyze some basic Car Data;4.25
+Bite 131. Screen scraper;None
+Bite 132. Find the word with the most vowels;1.5
+Bite 133. Convert an Amazon URL into an affiliation link;1.5
+Bite 134. Two Sums;4.0
+Bite 135. Sort a list of book objects;3.0
+Bite 136. Bloodtypes;6.6
+Bite 137. Gourmets' Nightmare;6.0
+Bite 138. OOP fun at the Zoo;5.0
+Bite 139. Calculate a coding streak in days;6.0
+Bite 140. PyBites First Pandas Bite;None
+Bite 141. Primitive date format inferrer;6.33
+Bite 142. Exception Handling: Calculate the Winning Player;2.0
+Bite 143. Look up a value in 3 dictionaries;1.5
+Bite 144. Calculate the Number of Months Passed;4.5
+Bite 145. Record Breakers;None
+Bite 146. Rhombus generator;2.0
+Bite 147. 100 WEEKDays of Code Date Range;5.0
+Bite 148. Print Car Data Grouped by Manufacturer;1.0
+Bite 149. Sorting words with constraint;3.0
+Bite 150. Turn messy CSV into JSON;4.5
+Bite 151. Contemporary Composers;4.5
+Bite 152. Manipulate string decorator;6.33
+Bite 153. Round a sequence of numbers;1.0
+Bite 154. Write your own Data Class;2.0
+Bite 155. Split a string by spaces or quoted text;3.0
+Bite 156. Make an index of story characters;5.0
+Bite 157. Filter out accented characters;2.0
+Bite 158. Subclass the list built-in;5.0
+Bite 159. Create a simple calculator;3.0
+Bite 160. 15-way Rock Paper Scissors;3.5
+Bite 161. Count the number of files and directories;3.0
+Bite 162. Vertically align output of counters;1.5
+Bite 163. Which packages were upgraded?;2.5
+Bite 164. CLI tool: HTML link converter (stdin to stdout);5.0
+Bite 165. Parse an /etc/passwd file output;2.0
+Bite 168. Ninja Rankings;None
+Bite 166. Complete a tox ini file parser class;6.0
+Bite 167. Complete a User class: properties and representation dunder methods;3.0
+Bite 169. Simple length converter;2.0
+Bite 174. String manipulation and metrics;6.0
+Bite 170. Analyze McDonald's food data;2.0
+Bite 171. Make a terminal spinner animation;7.0
+Bite 172. Having fun with Python Partials;1.0
+Bite 173. Set up future notifications;4.5
+Bite 175. Find missing dates;2.0
+Bite 176. Create a variable length chessboard;3.0
+Bite 177. Use Pandas to find most common genres in a movie excel sheet;5.0
+Bite 178. Parse PyBites blog git commit log;5.0
+Bite 179. Strip comments from Python code;8.0
+Bite 180. Group names by country;1.5
+Bite 181. Keep a list sorted upon insert;1.33
+Bite 182. Parse a bunch of quotes from HTML;2.5
+Bite 183. Analyze sales data with pandas;5.0
+Bite 184. Analyze some Bite stats data;3.5
+Bite 185. Create a simple spelling suggester;1.0
+Bite 186. Calculate number of books to have read at date ...;2.0
+Bite 187. Actor/actress age at movie release;2.5
+Bite 188. Get statistics from PyBites test code;2.5
+Bite 189. Filter a list of names;1.0
+Bite 192. Some logging practice;None
+Bite 190. Parse income distribution from Latin America XML;7.5
+Bite 191. Starwars character with highest BMI;1.0
+Bite 193. Most upvoted StackOverflow Python questions;3.5
+Bite 194. Add caching to a Fibonacci function;None
+Special PyCon 2019 Bite 1: Enumerate 2 sequences;None
+Special PyCon 2019 Bite 2: PyBites date generator;None
+Special PyCon 2019 Bite 3: Marvel data analysis;None
+Bite 195. Analyze NBA Data with sqlite3;4.5
+Bite 196. Create a JS-like dict object;7.0
+Bite 197. What date is Mother's Day celebrated?;2.0
+Bite 198. Calculate my Mac's longest uptime;3.0
+Bite 199. Multiple inheritance (__mro__);2.0
+Bite 200. :P Minecraft Enchantable Items;None

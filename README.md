@@ -48,7 +48,7 @@
 - [ ] 205. Female speakers @ Pycon US
 - [ ] 204. Pomodoro with asyncio
 - [ ] 203. Type hinting practice
-- [ ] 202. Analyze some Bite stats data - part II
+- [x] 202. Analyze some Bite stats data - part II
 - [ ] 201. Call a Cisco Nexus 9k device
 - [x] 200. 🥳 Minecraft Enchantable Items
 - [x] 199. Multiple inheritance (__mro__)
