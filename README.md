@@ -174,7 +174,7 @@
 - [ ] 79. Parse a csv file and create a bar chart
 - [x] 78. Find programmers with common languages
 - [x] 77. New places to travel to
-- [ ] 76. The singledispatch countdown challenge
+- [x] 76. The singledispatch countdown challenge
 - [ ] 75. Parse Unix cal to a weekday mapping
 - [x] 74. What day of the week were you born on?
 - [ ] 73. Organize a meeting between timezones (pytz)
