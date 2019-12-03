@@ -1,7 +1,11 @@
+""" 
+Bite 200. Minecraft Enchantable Items
+"""
 import re
 from collections import OrderedDict
 from pathlib import Path
 from typing import Dict, List
+
 from bs4 import BeautifulSoup as Soup
 
 FILE_PATH = Path('./tmp/minecraft.php')
