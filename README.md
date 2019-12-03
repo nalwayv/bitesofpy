@@ -50,7 +50,7 @@
 - [ ] 203. Type hinting practice
 - [ ] 202. Analyze some Bite stats data - part II
 - [ ] 201. Call a Cisco Nexus 9k device
-- [ ] 200. 🥳 Minecraft Enchantable Items
+- [x] 200. 🥳 Minecraft Enchantable Items
 - [x] 199. Multiple inheritance (__mro__)
 - [ ] 198. Calculate my Mac's longest uptime
 - [ ] 197. What date is Mother's Day celebrated?

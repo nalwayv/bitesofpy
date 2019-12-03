@@ -186,7 +186,7 @@ def print_sequence_route(grid: str, start_coordinates=None) -> None:
     # Path
     path = [(DOWN, start)]
     while start != end:
-        
+
         next_value = start + 1
 
         if is_on_grid(x + 1, y, grid_size):
