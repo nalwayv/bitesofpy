@@ -45,7 +45,7 @@
 - [x] 208. Find the number pairs summing up N
 - [ ] 207. Cached property decorator
 - [ ] 206. Calculate and evenly split the bill
-- [ ] 205. Female speakers @ Pycon US
+- [x] 205. Female speakers @ Pycon US
 - [ ] 204. Pomodoro with asyncio
 - [ ] 203. Type hinting practice
 - [x] 202. Analyze some Bite stats data - part II
