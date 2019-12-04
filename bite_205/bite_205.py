@@ -22,19 +22,19 @@ def _get_soup(html=PYCON_HTML):
     return Soup(html.read_text(encoding="utf-8"), "html.parser")
 
 
-def get_pycon_speaker_first_names(soup=None)->List[str]:
+def get_pycon_speaker_first_names(soup=None) -> List[str]:
     """Parse the PYCON_HTML using BeautifulSoup, extracting all
        speakers (class "speaker"). Note that some items contain
        multiple speakers so you need to extract them.
        Return a list of first names
     """
 
-    tables = soup.select('table.calendar>tbody')# select both tables
+    tables = soup.select('table.calendar>tbody')  # select both tables
 
-    first_names=[]
+    first_names = []
 
     for table in tables:
-        for span in table.findAll('span',attrs={'class':'speaker'}):
+        for span in table.findAll('span', attrs={'class': 'speaker'}):
             names = span.text.strip()
             if ',' in names:
                 for name in names.split(','):
@@ -50,22 +50,21 @@ def get_pycon_speaker_first_names(soup=None)->List[str]:
 
     return first_names
 
+
 def get_percentage_of_female_speakers(first_names):
     """Run gender_guesser on the names returning a percentage
        of female speakers (female and mostly_female),
        rounded to 2 decimal places."""
 
     check_gender = gender.Detector()
- 
+
     fems = 0
     for name in first_names:
         gen = check_gender.get_gender(name)
-        if gen in ['female','mostly_female']:
+        if gen in ['female', 'mostly_female']:
             fems += 1
-    
-    return round(fems*100/len(first_names),2)
 
-
+    return round(fems * 100 / len(first_names), 2)
 
 
 if __name__ == "__main__":
