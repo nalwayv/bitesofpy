@@ -68,7 +68,6 @@ def get_percentage_of_female_speakers(first_names):
 
 
 if __name__ == "__main__":
-    print('foo')
     soup = _get_soup()
     first_names = get_pycon_speaker_first_names(soup)
     get_percentage_of_female_speakers(first_names)
