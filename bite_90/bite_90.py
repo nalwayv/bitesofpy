@@ -1,10 +1,10 @@
-from collections import Counter, defaultdict
 import csv
+import re
+from collections import Counter, defaultdict
 
 import requests
-import re
 
-CSV_URL = 'https://raw.githubusercontent.com/pybites/SouthParkData/master/by-season/Season-{}.csv' # noqa E501
+CSV_URL = 'https://raw.githubusercontent.com/pybites/SouthParkData/master/by-season/Season-{}.csv'  # noqa E501
 
 
 def get_season_csv_file(season):
@@ -15,14 +15,14 @@ def get_season_csv_file(season):
         return download.content.decode('utf-8')
 
 
-def get_words(msg:str)->list:
+def get_words(msg: str) -> list:
     ok = re.findall(r"[^\n ]+", msg)
     if ok:
         return ok
     return []
 
 
-def cleanup_csv_text(content:str) -> list:
+def cleanup_csv_text(content: str) -> list:
     lines = content.splitlines()
     start = 1
     n = len(lines)
@@ -31,24 +31,24 @@ def cleanup_csv_text(content:str) -> list:
 
     while start < n:
         p2 = p1
-        ll=[]
+        ll = []
         while p2 < n:
-            if len(lines[p2]) == 1: # line with single "
+            if len(lines[p2]) == 1:  # line with single "
                 break
             ll.append(lines[p2])
-            p2+=1
+            p2 += 1
 
         start = p1
         if ll:
             if start == 0:
                 clusters.append(''.join(ll))
-            clusters.append(''.join(ll)+'"')
-        p1 = p2+1
+            clusters.append(''.join(ll) + '"')
+        p1 = p2 + 1
 
     return clusters
 
 
-def get_num_words_spoken_by_character_per_episode(content:str):
+def get_num_words_spoken_by_character_per_episode(content: str) -> dict:
     """Receives loaded csv content (str) and returns a dict of
        keys=characters and values=Counter object,
        which is a mapping of episode=>words spoken
@@ -63,9 +63,10 @@ def get_num_words_spoken_by_character_per_episode(content:str):
         text = row['Line']
         words = get_words(text)
 
-        data[character][episode]+=len(words)
+        data[character][episode] += len(words)
 
     return data
+
 
 if __name__ == "__main__":
     content = get_season_csv_file(5)
