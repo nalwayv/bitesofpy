@@ -66,9 +66,3 @@ def get_num_words_spoken_by_character_per_episode(content: str) -> dict:
         data[character][episode] += len(words)
 
     return data
-
-
-if __name__ == "__main__":
-    content = get_season_csv_file(5)
-    result = get_num_words_spoken_by_character_per_episode(str(content))
-    print(result['Stan'])
