@@ -1,6 +1,9 @@
+"""
+Bite 131: 
+"""
 import re
-from collections import defaultdict
-from typing import Optional, List, Dict
+from typing import Dict, List, Optional
+
 mint = """
                                        mohh@SERENiTY
  MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Mint 19 tara
@@ -68,13 +71,9 @@ def sysinfo_scrape(output: str) -> Dict[str, str]:
     pattern = re.compile(r' (?P<key>[A-Z][\w ]+):\s{1}(?P<value>[\w\d].*)$',
                          re.MULTILINE)
     info = pattern.finditer(output)
+
     if info and name:
         data = dict()
         data['Name'] = name.group(0)
         data.update({v['key']: v['value'] for v in info})
         return data
-
-
-if __name__ == "__main__":
-    for x in sysinfo_scrape(mac).items():
-        print(x)
