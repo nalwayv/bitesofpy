@@ -8,6 +8,7 @@
 
 
 #
+- [ ] 243. Test code that parses JSON and IP ranges
 - [ ] 242. Zodiacal data parsing
 - [ ] 241. Write tests for list_to_decimal
 - [ ] 240. Write tests for an Account class
@@ -119,7 +120,7 @@
 - [x] 134. Two Sums
 - [x] 133. Convert an Amazon URL into an affiliation link
 - [x] 132. Find the word with the most vowels
-- [ ] 131. Screen scraper
+- [x] 131. Screen scraper
 - [x] 130. Analyze some basic Car Data
 - [x] 129. Analyze Stock Data
 - [x] 128. Work with datetime's strptime and strftime
