@@ -156,7 +156,7 @@
 - [x] 97. BeautifulSoup II - scrape US holidays
 - [ ] 96. Build Unix' wc program in Python
 - [x] 95. Subclass the dict built-in
-- [ ] 94. Parse PyCon talk data from YouTube
+- [x] 94. Parse PyCon talk data from YouTube
 - [ ] 93. Rock-paper-scissors and generator's send
 - [ ] 92. Humanize a datetime
 - [x] 91. Matching multiple strings
