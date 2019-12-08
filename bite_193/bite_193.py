@@ -28,13 +28,10 @@ def top_python_questions(url: str = cached_so_url):
 
     for q in questions:
         title = q.find('h3').text
-        vote = int(
-            q.find('span', attrs={
-                'class': 'vote-count-post'
-            }).text.strip())
+        vote = q.find('span', attrs={'class': 'vote-count-post'}).text.strip()
         view = q.find('div', attrs={'class': 'views'}).text.strip()
 
         if 'm' in view:
-            data.append((title, vote))
+            data.append((title, int(vote)))
 
     return sorted(data, key=lambda x: x[1], reverse=True)
