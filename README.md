@@ -58,7 +58,7 @@
 - [ ] 196. Create a JS-like dict object
 - [ ] 195. Analyze NBA Data with sqlite3
 - [ ] 194. Add caching to a Fibonacci function
-- [ ] 193. Most upvoted StackOverflow Python questions
+- [x] 193. Most upvoted StackOverflow Python questions
 - [ ] 192. Some logging practice
 - [x] 191. Starwars character with highest BMI
 - [x] 190. Parse income distribution from Latin America XML
