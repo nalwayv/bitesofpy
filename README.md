@@ -112,7 +112,7 @@
 - [x] 142. Exception Handling: Calculate the Winning Player
 - [ ] 141. Primitive date format inferrer
 - [ ] 140. PyBites First Pandas Bite
-- [ ] 139. Calculate a coding streak in days
+- [x] 139. Calculate a coding streak in days
 - [x] 138. OOP fun at the Zoo
 - [x] 137. Gourmets' Nightmare
 - [ ] 136. Bloodtypes
@@ -176,7 +176,7 @@
 - [x] 78. Find programmers with common languages
 - [x] 77. New places to travel to
 - [x] 76. The singledispatch countdown challenge
-- [ ] 75. Parse Unix cal to a weekday mapping
+- [x] 75. Parse Unix cal to a weekday mapping
 - [x] 74. What day of the week were you born on?
 - [ ] 73. Organize a meeting between timezones (pytz)
 - [x] 72. Retrieve the right Ninja Belt based on score
