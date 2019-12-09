@@ -8,6 +8,7 @@
 
 
 #
+- [ ] 245. Xmas Tree 2.0
 - [ ] 244. Make mutpy's output more digestible
 - [ ] 243. Test code that parses JSON and IP ranges
 - [ ] 242. Zodiacal data parsing
@@ -78,7 +79,7 @@
 - [ ] 177. Use Pandas to find most common genres in a movie excel sheet
 - [x] 176. Create a variable length chessboard
 - [ ] 175. Find missing dates
-- [ ] 174. String manipulation and metrics
+- [x] 174. String manipulation and metrics
 - [ ] 173. Set up future notifications
 - [x] 172. Having fun with Python Partials
 - [x] 171. Make a terminal spinner animation
