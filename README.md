@@ -174,7 +174,7 @@
 - [x] 82. Define a Score Enum and customize it adding methods
 - [ ] 81. Filter and order tweets by polarity values
 - [x] 80. Check equality of two lists
-- [ ] 79. Parse a csv file and create a bar chart
+- [x] 79. Parse a csv file and create a bar chart
 - [x] 78. Find programmers with common languages
 - [x] 77. New places to travel to
 - [x] 76. The singledispatch countdown challenge
