@@ -1,3 +1,6 @@
+"""
+Bite 51. When does Python 2 die on Planet Miller? 
+"""
 from datetime import datetime, timedelta
 
 # https://pythonclock.org/
