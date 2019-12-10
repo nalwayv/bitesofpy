@@ -55,7 +55,7 @@
 - [ ] 201. Call a Cisco Nexus 9k device
 - [x] 200. 🥳 Minecraft Enchantable Items
 - [x] 199. Multiple inheritance (__mro__)
-- [ ] 198. Calculate my Mac's longest uptime
+- [x] 198. Calculate my Mac's longest uptime
 - [ ] 197. What date is Mother's Day celebrated?
 - [ ] 196. Create a JS-like dict object
 - [ ] 195. Analyze NBA Data with sqlite3
@@ -202,7 +202,7 @@
 - [x] 54. Nicer formatting of a poem or text
 - [x] 53. Convert text into multiple columns
 - [x] 52. Create a movie quote API with Flask
-- [ ] 51. When does Python 2 die on Planet Miller?
+- [x] 51. When does Python 2 die on Planet Miller?
 - [ ] 50. Make a little PyBites search engine (feedparser)
 - [x] 49. Scrape Packt's html with BeautifulSoup
 - [ ] 48. Make a bar chart of new Safari books
