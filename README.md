@@ -42,7 +42,7 @@
 - [x] 214. A countdown generator
 - [x] 213. Code a translation fixer
 - [ ] 212. Suppressing exceptions
-- [ ] 211. Write a retry decorator
+- [x] 211. Write a retry decorator
 - [x] 210. Add Type Annotations
 - [x] 209. Write a Sphinx docstring
 - [x] 208. Find the number pairs summing up N
