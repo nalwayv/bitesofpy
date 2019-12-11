@@ -30,7 +30,7 @@
 - [x] 226. Get top titles from news.python.sc
 - [x] 225. Swap case PyBites characters
 - [x] 224. Get sentences from a text
-- [ ] 223. Unix file permissions
+- [x] 223. Unix file permissions
 - [x] 222. Split an iterable in groups of size n
 - [x] 221. Parse best selling lists using the NY Times API
 - [ ] 220. Analysing @pythonbytes RSS feed
