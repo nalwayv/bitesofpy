@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>PyBites</title>
+        <link>https://pybit.es/</link>
+        <description>Python Code Challenges, Articles and News - One Bite a Day</description>
+        <lastBuildDate>Sun, 18 Feb 2018 20:52:00 +0100</lastBuildDate>
+        
+        <item>
+            <title>Twitter Digest 2018 Week 08</title>
+            <link>https://pybit.es/twitter_digest_201808.html</link>
+            <description>&lt;p&gt;Every weekend we share ...;</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">PyBites</dc:creator>
+            <pubDate>Sun, 18 Feb 2018 20:52:00 +0100</pubDate>
+            <guid isPermaLink="false">tag:pybit.es,2018-02-18:/twitter_digest_201808.html</guid>
+            <category>twitter</category>
+            <category>Flask</category>
+            <category>Python</category>
+            <category>Regex</category>
+        </item>
+
+        <item>
+            <title>Copy and Paste with Pyperclip</title>
+            <link>https://pybit.es/pyperclip.html</link>
+            <description>&lt;p&gt;Use the Pyperclip module to ...</description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">PyBites</dc:creator>
+            <pubDate>Fri, 06 Jan 2017 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">tag:pybit.es,2018-02-11:/twitter_digest_201807.html</guid>
+            <category>python</category>
+            <category>tips</category>
+            <category>tricks</category>
+            <category>code</category>
+            <category>pybites</category>
+        </item>
+    </channel>
+</rss>
