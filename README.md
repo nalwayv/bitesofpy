@@ -163,7 +163,7 @@
 - [ ] 93. Rock-paper-scissors and generator's send
 - [x] 92. Humanize a datetime
 - [x] 91. Matching multiple strings
-- [ ] 90. What South Park characters talk most?
+- [x] 90. What South Park characters talk most?
 - [x] 89. Playing with lists and dicts
 - [ ] 88. Write a performance monitoring context manager
 - [x] 87. Convert Decimal to Roman Numerals
