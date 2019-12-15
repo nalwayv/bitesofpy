@@ -113,7 +113,7 @@
 - [x] 143. Look up a value in 3 dictionaries
 - [x] 142. Exception Handling: Calculate the Winning Player
 - [ ] 141. Primitive date format inferrer
-- [ ] 140. PyBites First Pandas Bite
+- [x] 140. PyBites First Pandas Bite
 - [x] 139. Calculate a coding streak in days
 - [x] 138. OOP fun at the Zoo
 - [x] 137. Gourmets' Nightmare
