@@ -205,7 +205,7 @@
 - [x] 51. When does Python 2 die on Planet Miller?
 - [x] 50. Make a little PyBites search engine (feedparser)
 - [x] 49. Scrape Packt's html with BeautifulSoup
-- [ ] 48. Make a bar chart of new Safari books
+- [x] 48. Make a bar chart of new Safari books
 - [x] 47. Write a new password field validator
 - [x] 46. You are a programmer! Code Fizz Buzz
 - [x] 45. Keep a queue of last n items
