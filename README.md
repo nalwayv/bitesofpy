@@ -129,7 +129,7 @@
 - [x] 127. Return the right ordinal suffix for a number
 - [ ] 126. The Emoji (Unicode) Bite
 - [x] 125. Get the most recommended books
-- [ ] 124. Marvel data analysis
+- [x] 124. Marvel data analysis
 - [x] 123. Find the user with most friends
 - [x] 122. Check if two words are anagrams
 - [ ] 121. Determine the strength of a password
