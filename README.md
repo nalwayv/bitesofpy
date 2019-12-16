@@ -78,7 +78,7 @@
 - [x] 178. Parse PyBites blog git commit log
 - [ ] 177. Use Pandas to find most common genres in a movie excel sheet
 - [x] 176. Create a variable length chessboard
-- [ ] 175. Find missing dates
+- [x] 175. Find missing dates
 - [x] 174. String manipulation and metrics
 - [ ] 173. Set up future notifications
 - [x] 172. Having fun with Python Partials
