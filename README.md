@@ -58,7 +58,7 @@
 - [x] 198. Calculate my Mac's longest uptime
 - [ ] 197. What date is Mother's Day celebrated?
 - [ ] 196. Create a JS-like dict object
-- [ ] 195. Analyze NBA Data with sqlite3
+- [x] 195. Analyze NBA Data with sqlite3
 - [ ] 194. Add caching to a Fibonacci function
 - [x] 193. Most upvoted StackOverflow Python questions
 - [ ] 192. Some logging practice
