@@ -83,7 +83,7 @@
 - [ ] 173. Set up future notifications
 - [x] 172. Having fun with Python Partials
 - [x] 171. Make a terminal spinner animation
-- [ ] 170. Analyze McDonald's food data
+- [x] 170. Analyze McDonald's food data
 - [x] 169. Simple length converter
 - [x] 168. Ninja Rankings
 - [x] 167. Complete a User class: properties and representation dunder methods
