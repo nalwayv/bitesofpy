@@ -21,7 +21,7 @@
 - [ ] 235. Which Bite has the fastest tests?
 - [x] 234. Capitalize sentences	
 - [ ] 233. Make a zipfile of the latest log files
-- [ ] 232. Analyze gold prices
+- [x] 232. Analyze gold prices
 - [x] 231. Where are the emojis?
 - [x] 230. Thumbs up for operator overloading
 - [x] 229. Scrape best programming books
