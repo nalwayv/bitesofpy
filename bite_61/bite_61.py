@@ -5,6 +5,7 @@ import random
 import string
 from collections import namedtuple
 from itertools import zip_longest
+from typing import List
 
 ACTIONS = [
     'draw_card', 'play_again', 'interchange_cards', 'change_turn_direction'
@@ -15,7 +16,18 @@ NUMBERS = range(1, 5)
 PawCard = namedtuple('PawCard', 'card action')
 
 
-def create_paw_deck(n=8):
+def create_paw_deck(n=8) -> List[PawCard]:
+    """create_paw_deck
+    
+    Args:
+        n (int, optional): Defaults to 8.
+    
+    Raises:
+        ValueError: if n > 26
+    
+    Returns:
+        List[PawCard]
+    """
     if n > 26:
         raise ValueError('n too large')
 
