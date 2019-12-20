@@ -20,12 +20,11 @@ def create_paw_deck(n=8):
         raise ValueError('n too large')
 
     cards = [
-        f'{char}{num}'
-        for char in string.ascii_uppercase[:n]
-        for num in NUMBERS    
+        f'{char}{num}' for char in string.ascii_uppercase[:n]
+        for num in NUMBERS
     ]
 
     random.shuffle(cards)
-    actions = random.choices(ACTIONS*n,k=n)
+    actions = random.choices(ACTIONS * n, k=n)
 
-    return [PawCard(card=c, action=a) for c,a in zip_longest(cards,actions)]
+    return [PawCard(card=c, action=a) for c, a in zip_longest(cards, actions)]
