@@ -192,7 +192,7 @@
 - [x] 64. Fix a truncating zip function
 - [x] 63. Use an infinite iterator to simulate a traffic light
 - [ ] 62. Data structures matter - speed up your Python code
-- [ ] 61. Create a variable size Paw Patrol card deck with random actions
+- [x] 61. Create a variable size Paw Patrol card deck with random actions
 - [x] 60. Create a deck of Uno cards
 - [x] 59. Create a multiplication table class of variable length
 - [ ] 58. Using argparse to interface with a grocery cart
