@@ -102,7 +102,7 @@
 - [x] 154. Write your own Data Class
 - [x] 153. Round a sequence of numbers
 - [x] 152. Manipulate string decorator
-- [ ] 151. Contemporary Composers
+- [x] 151. Contemporary Composers
 - [x] 150. Turn messy CSV into JSON
 - [x] 149. Sorting words with constraint
 - [x] 148. Print Car Data Grouped by Manufacturer
@@ -239,7 +239,7 @@
 - [x] 17. Form teams from a group of friends
 - [ ] 16. PyBites date generator
 - [x] 15. Enumerate 2 sequences
-- [ ] 14. Generate a table of n sequences
+- [x] 14. Generate a table of n sequences
 - [x] 13. Convert dict to namedtuple/json
 - [x] 12. Write a user validation function
 - [x] 11. Enrich a class with dunder methods
