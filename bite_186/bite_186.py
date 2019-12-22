@@ -17,7 +17,6 @@ def get_number_books_read(books_per_year_goal: int,
        If books_per_year_goal negative or 0, or at_date is in the
        past, raise a ValueError."""
     at_date = at_date or str(NOW)
-    # TODOs
 
     # 1. use dateutil's parse to convert at_date into a
     # datetime object
