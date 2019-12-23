@@ -160,7 +160,7 @@
 - [ ] 96. Build Unix' wc program in Python
 - [x] 95. Subclass the dict built-in
 - [x] 94. Parse PyCon talk data from YouTube
-- [ ] 93. Rock-paper-scissors and generator's send
+- [x] 93. Rock-paper-scissors and generator's send
 - [x] 92. Humanize a datetime
 - [x] 91. Matching multiple strings
 - [x] 90. What South Park characters talk most?
