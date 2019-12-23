@@ -80,7 +80,7 @@
 - [x] 176. Create a variable length chessboard
 - [x] 175. Find missing dates
 - [x] 174. String manipulation and metrics
-- [ ] 173. Set up future notifications
+- [x] 173. Set up future notifications
 - [x] 172. Having fun with Python Partials
 - [x] 171. Make a terminal spinner animation
 - [x] 170. Analyze McDonald's food data
