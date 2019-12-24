@@ -237,7 +237,7 @@
 - [x] 19. Write a simple property
 - [x] 18. Find the most common word
 - [x] 17. Form teams from a group of friends
-- [ ] 16. PyBites date generator
+- [x] 16. PyBites date generator
 - [x] 15. Enumerate 2 sequences
 - [x] 14. Generate a table of n sequences
 - [x] 13. Convert dict to namedtuple/json
