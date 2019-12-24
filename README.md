@@ -172,7 +172,7 @@
 - [x] 84. Flatten lists recursively (Droste Bite)
 - [x] 83. At what time does PyBites live?
 - [x] 82. Define a Score Enum and customize it adding methods
-- [ ] 81. Filter and order tweets by polarity values
+- [x] 81. Filter and order tweets by polarity values
 - [x] 80. Check equality of two lists
 - [x] 79. Parse a csv file and create a bar chart
 - [x] 78. Find programmers with common languages
