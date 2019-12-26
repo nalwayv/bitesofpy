@@ -6,24 +6,21 @@ from datetime import datetime, timedelta
 from itertools import islice
 
 PYBITES_BORN = datetime(year=2016, month=12, day=19)
-
 ONE_YEAR = timedelta(days=365)
 ONE_HUNDRED_DAYS = timedelta(days=100)
 
 
 def gen_special_pybites_dates():
-
-    pb = PYBITES_BORN
-
-    future_year = pb + ONE_YEAR
+    pybites_born = PYBITES_BORN
+    future_year = pybites_born + ONE_YEAR
 
     while True:
-        pb += ONE_HUNDRED_DAYS
-        if pb > future_year:
+        pybites_born += ONE_HUNDRED_DAYS
+        if pybites_born > future_year:
             yield future_year
             future_year += ONE_YEAR
 
-        yield pb
+        yield pybites_born
 
 
 if __name__ == "__main__":
