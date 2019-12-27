@@ -12,7 +12,7 @@
 - [ ] 244. Make mutpy's output more digestible
 - [ ] 243. Test code that parses JSON and IP ranges
 - [ ] 242. Zodiacal data parsing
-- [ ] 241. Write tests for list_to_decimal
+- [x] 241. Write tests for list_to_decimal
 - [ ] 240. Write tests for an Account class
 - [ ] 239. Test FizzBuzz
 - [x] 238. Write tests for Fibonacci
