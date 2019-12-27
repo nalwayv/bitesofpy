@@ -14,7 +14,7 @@
 - [ ] 242. Zodiacal data parsing
 - [x] 241. Write tests for list_to_decimal
 - [ ] 240. Write tests for an Account class
-- [ ] 239. Test FizzBuzz
+- [x] 239. Test FizzBuzz
 - [x] 238. Write tests for Fibonacci
 - [ ] 237. Get the dates Ninja belts were earned
 - [ ] 236. User experience matters! Suggest matching files
