@@ -50,7 +50,7 @@
 - [ ] 206. Calculate and evenly split the bill
 - [x] 205. Female speakers @ Pycon US
 - [ ] 204. Pomodoro with asyncio
-- [ ] 203. Type hinting practice
+- [x] 203. Type hinting practice
 - [x] 202. Analyze some Bite stats data - part II
 - [ ] 201. Call a Cisco Nexus 9k device
 - [x] 200. 🥳 Minecraft Enchantable Items
