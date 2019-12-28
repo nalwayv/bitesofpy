@@ -87,7 +87,7 @@ def test_get_transaction_indexerror(single_account) -> None:
         assert single_account[0] == 10
 
 
-def test_compair(single_account):
+def test_compair(single_account) -> None:
     other = Account('jain')
 
     assert single_account == other
