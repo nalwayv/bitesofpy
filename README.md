@@ -8,6 +8,9 @@
 
 
 #
+- [ ] 248. Test a number guessing game
+- [x] 247. Mocking a standard library function
+- [ ] 246. Test print / standard output
 - [x] 245. Xmas Tree 2.0
 - [ ] 244. Make mutpy's output more digestible
 - [ ] 243. Test code that parses JSON and IP ranges
