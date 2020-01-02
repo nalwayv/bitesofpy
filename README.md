@@ -29,7 +29,7 @@
 - [x] 231. Where are the emojis?
 - [x] 230. Thumbs up for operator overloading
 - [x] 229. Scrape best programming books
-- [ ] 228. Create a Gravatar URL
+- [x] 228. Create a Gravatar URL
 - [x] 227. Convert Warcraft json data to csv
 - [x] 226. Get top titles from news.python.sc
 - [x] 225. Swap case PyBites characters
