@@ -62,7 +62,7 @@
 - [ ] 197. What date is Mother's Day celebrated?
 - [x] 196. Create a JS-like dict object
 - [x] 195. Analyze NBA Data with sqlite3
-- [ ] 194. Add caching to a Fibonacci function
+- [x] 194. Add caching to a Fibonacci function
 - [x] 193. Most upvoted StackOverflow Python questions
 - [ ] 192. Some logging practice
 - [x] 191. Starwars character with highest BMI
@@ -160,7 +160,7 @@
 - [x] 99. Write an infinite sequence generator
 - [x] 98. Code your way out of a grid
 - [x] 97. BeautifulSoup II - scrape US holidays
-- [ ] 96. Build Unix' wc program in Python
+- [x] 96. Build Unix' wc program in Python
 - [x] 95. Subclass the dict built-in
 - [x] 94. Parse PyCon talk data from YouTube
 - [x] 93. Rock-paper-scissors and generator's send
