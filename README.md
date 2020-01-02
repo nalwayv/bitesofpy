@@ -8,6 +8,7 @@
 
 
 #
+- [ ] 249. Test a movie DB class
 - [ ] 248. Test a number guessing game
 - [x] 247. Mocking a standard library function
 - [x] 246. Test print / standard output
