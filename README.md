@@ -64,7 +64,7 @@
 - [x] 195. Analyze NBA Data with sqlite3
 - [x] 194. Add caching to a Fibonacci function
 - [x] 193. Most upvoted StackOverflow Python questions
-- [ ] 192. Some logging practice
+- [x] 192. Some logging practice
 - [x] 191. Starwars character with highest BMI
 - [x] 190. Parse income distribution from Latin America XML
 - [x] 189. Filter a list of names
