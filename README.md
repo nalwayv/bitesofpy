@@ -109,7 +109,7 @@
 - [x] 150. Turn messy CSV into JSON
 - [x] 149. Sorting words with constraint
 - [x] 148. Print Car Data Grouped by Manufacturer
-- [ ] 147. 100 WEEKDays of Code Date Range
+- [x] 147. 100 WEEKDays of Code Date Range
 - [x] 146. Rhombus generator
 - [ ] 145. Record Breakers
 - [x] 144. Calculate the Number of Months Passed
