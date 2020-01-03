@@ -23,8 +23,6 @@ NO_RECORD = "Not a valid shortened url"
 
 def encode(record: int) -> str:
     """Encodes an integer into Base62"""
-    # base62 = record % 62
-
     div62, mod62 = divmod(record, 62)
 
     if mod62 >= len(CODEX):
@@ -77,5 +75,9 @@ def shorten_url(url: str, next_record: int) -> str:
     """
     encode_result = encode(next_record)
     short_url = f'{SITE}/{encode_result}'
-    LINKS[next_record] = url
+    
+    # add to links
+    if next_record not in LINKS:
+        LINKS[next_record] = url
+    
     return short_url
