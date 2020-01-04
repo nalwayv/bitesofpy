@@ -8,6 +8,7 @@
 
 
 #
+- [x] 252. Let's play with Pandas Series
 - [x] 251. Introducing Pandas Series
 - [x] 250. PyBites URL Shortener
 - [ ] 249. Test a movie DB class
