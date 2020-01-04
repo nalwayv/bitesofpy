@@ -79,7 +79,7 @@
 - [x] 184. Analyze some Bite stats data
 - [ ] 183. Analyze sales data with pandas
 - [x] 182. Parse a bunch of quotes from HTML
-- [ ] 181. Keep a list sorted upon insert
+- [x] 181. Keep a list sorted upon insert
 - [x] 180. Group names by country
 - [x] 179. Strip comments from Python code
 - [x] 178. Parse PyBites blog git commit log
@@ -232,7 +232,7 @@
 - [x] 31. Matrix multiplication / @ operator
 - [x] 30. Movie data analysis
 - [x] 29. Martin's IQ test
-- [ ] 28. Converting date strings to datetimes
+- [x] 28. Converting date strings to datetimes
 - [x] 27. Parse omdb movie json data
 - [x] 26. Dictionary comprehensions are awesome
 - [x] 25. No promo twice, keep state in a class
