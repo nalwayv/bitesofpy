@@ -149,7 +149,7 @@
 - [x] 114. Implement a Color class with classmethods
 - [x] 113. Filter words with non-ascii characters
 - [x] 112. Social Media Username Validator
-- [ ] 111. Use the ipinfo API to lookup IP country
+- [x] 111. Use the ipinfo API to lookup IP country
 - [x] 110. Type conversion and exception handling
 - [x] 109. Workout dict lookups and raising an exception
 - [x] 108. Loop over a dict of namedtuples calculating a total score
