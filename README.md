@@ -198,7 +198,7 @@
 - [x] 65. Get all valid dictionary words for a draw of letters
 - [x] 64. Fix a truncating zip function
 - [x] 63. Use an infinite iterator to simulate a traffic light
-- [ ] 62. Data structures matter - speed up your Python code
+- [x] 62. Data structures matter - speed up your Python code
 - [x] 61. Create a variable size Paw Patrol card deck with random actions
 - [x] 60. Create a deck of Uno cards
 - [x] 59. Create a multiplication table class of variable length
