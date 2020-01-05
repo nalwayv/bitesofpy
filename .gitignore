@@ -125,3 +125,4 @@ dmypy.json
 # VsCode
 .vscode
 /TODO
+*.zip

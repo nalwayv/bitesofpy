@@ -27,7 +27,7 @@
 - [ ] 236. User experience matters! Suggest matching files
 - [ ] 235. Which Bite has the fastest tests?
 - [x] 234. Capitalize sentences	
-- [ ] 233. Make a zipfile of the latest log files
+- [x] 233. Make a zipfile of the latest log files
 - [x] 232. Analyze gold prices
 - [x] 231. Where are the emojis?
 - [x] 230. Thumbs up for operator overloading
