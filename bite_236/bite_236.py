@@ -1,7 +1,7 @@
 """ 
 Bite 236. User experience matters! Suggest matching files
 """
-from pathlib import PosixPath, Path
+from pathlib import Path
 import difflib
 
 
