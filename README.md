@@ -24,7 +24,7 @@
 - [x] 239. Test FizzBuzz
 - [x] 238. Write tests for Fibonacci
 - [ ] 237. Get the dates Ninja belts were earned
-- [ ] 236. User experience matters! Suggest matching files
+- [x] 236. User experience matters! Suggest matching files
 - [ ] 235. Which Bite has the fastest tests?
 - [x] 234. Capitalize sentences	
 - [x] 233. Make a zipfile of the latest log files
@@ -41,7 +41,7 @@
 - [x] 222. Split an iterable in groups of size n
 - [x] 221. Parse best selling lists using the NY Times API
 - [ ] 220. Analysing @pythonbytes RSS feed
-- [ ] 219. Bite notification planner
+- [x] 219. Bite notification planner
 - [x] 218. Create a sandwich decorator
 - [x] 217. Capture stdout
 - [x] 216. Parse an email header
