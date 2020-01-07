@@ -100,7 +100,7 @@
 - [x] 163. Which packages were upgraded?
 - [x] 162. Vertically align output of counters
 - [x] 161. Count the number of files and directories
-- [ ] 160. 15-way Rock Paper Scissors
+- [x] 160. 15-way Rock Paper Scissors
 - [x] 159. Create a simple calculator
 - [x] 158. Subclass the list built-in
 - [x] 157. Filter out accented characters
@@ -124,7 +124,7 @@
 - [x] 139. Calculate a coding streak in days
 - [x] 138. OOP fun at the Zoo
 - [x] 137. Gourmets' Nightmare
-- [ ] 136. Bloodtypes
+- [x] 136. Bloodtypes
 - [x] 135. Sort a list of book objects
 - [x] 134. Two Sums
 - [x] 133. Convert an Amazon URL into an affiliation link
