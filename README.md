@@ -187,7 +187,7 @@
 - [x] 76. The singledispatch countdown challenge
 - [x] 75. Parse Unix cal to a weekday mapping
 - [x] 74. What day of the week were you born on?
-- [ ] 73. Organize a meeting between timezones (pytz)
+- [x] 73. Organize a meeting between timezones (pytz)
 - [x] 72. Retrieve the right Ninja Belt based on score
 - [x] 71. Keep state in a class + make its instance callable
 - [x] 70. Create your own iterator
