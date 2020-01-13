@@ -8,6 +8,9 @@
 
 
 #
+- [ ] 255. Codon Usage
+- [x] 254. Global vs local variables
+- [ ] 253. More Pandas Series Practice
 - [x] 252. Let's play with Pandas Series
 - [x] 251. Introducing Pandas Series
 - [x] 250. PyBites URL Shortener
