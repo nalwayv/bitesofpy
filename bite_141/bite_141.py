@@ -89,7 +89,7 @@ def get_dates(dates: List[str]):
     count_results = Counter(nums).most_common()
     most_common = count_results[0][0]
 
-    # TOO MANY SAME FORMATS
+    # TOO MANY FORMATS
     if all([len(d) == 3 for d in date_data.values()]):
         raise InfDateFmtError
 
@@ -101,19 +101,15 @@ def get_dates(dates: List[str]):
         if date_format.value == most_common:
             fmt_str = None
             if date_format.name == "DDMMYY":
-                print("format: DDMMYY")
                 fmt_str = "%d/%m/%y"
 
             elif date_format.name == "MMDDYY":
-                print("format: MMDDYY")
                 fmt_str = "%m/%d/%y"
 
             elif date_format.name == "YYMMDD":
-                print("format: YYMMDD")
                 fmt_str = "%y/%m/%d"
 
             elif date_format.name == "DDMMYYYY":
-                print("format: DDMMYYYY")
                 fmt_str = "%d.%m.%Y"
 
             return str_dates(date_data, date_format, fmt_str)
