@@ -8,6 +8,7 @@
 
 
 #
+- [x] 256. Scrape PyCon events
 - [ ] 255. Codon Usage
 - [x] 254. Global vs local variables
 - [ ] 253. More Pandas Series Practice
@@ -122,7 +123,7 @@
 - [x] 144. Calculate the Number of Months Passed
 - [x] 143. Look up a value in 3 dictionaries
 - [x] 142. Exception Handling: Calculate the Winning Player
-- [ ] 141. Primitive date format inferrer
+- [x] 141. Primitive date format inferrer
 - [x] 140. PyBites First Pandas Bite
 - [x] 139. Calculate a coding streak in days
 - [x] 138. OOP fun at the Zoo
