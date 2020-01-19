@@ -8,6 +8,10 @@
 
 
 #
+- [ ] 260. Let's play with Pandas DataFrames
+- [ ] 259. Reverse complement
+- [ ] 258. What the flux?
+- [x] 257. Extract users dict from a multiline string
 - [x] 256. Scrape PyCon events
 - [ ] 255. Codon Usage
 - [x] 254. Global vs local variables
