@@ -81,8 +81,7 @@ def update_pycons_lat_lon(pycons: List[PyCon]):
         json_cons = json.load(f)
         for py in pycons:
             key = f"https://nominatim.openstreetmap.org/search?q={py.city},{py.country}&format=json&accept-language=en"
-            data = json_cons[key]
-            for d in data:
+            for d in json_cons[key]:
                 if d["type"] == "city" and d["class"] == "place":
                     py.lat = float(d["lat"])
                     py.lon = float(d["lon"])
