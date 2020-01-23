@@ -61,7 +61,7 @@ def _get_pycons():
         ]
 
 
-def _km_distance(origin, destination):
+def _km_distance(origin: PyCon, destination: PyCon):
     """ Helper function that retrieves the air distance in kilometers for two pycons """
     lon1, lat1, lon2, lat2 = map(
         radians, [origin.lon, origin.lat, destination.lon, destination.lat])
@@ -88,7 +88,7 @@ def update_pycons_lat_lon(pycons: List[PyCon]):
                     break
 
 
-def create_travel_plan(pycons):
+def create_travel_plan(pycons: List[PyCon]) -> List[Trip]:
     """
     Create your travel plan to visit all the PyCons.
     Assume it's now the start of 2019!
@@ -111,7 +111,7 @@ def create_travel_plan(pycons):
     return trips
 
 
-def total_travel_distance(journey):
+def total_travel_distance(journey: List[Trip]) -> float:
     """
     Return the total travel distance of your PyCon journey in kilometers
     rounded to one decimal.
