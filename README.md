@@ -8,6 +8,7 @@
 
 
 #
+- [x] 261. Visit all PyCons in Europe
 - [ ] 260. Let's play with Pandas DataFrames
 - [ ] 259. Reverse complement
 - [ ] 258. What the flux?

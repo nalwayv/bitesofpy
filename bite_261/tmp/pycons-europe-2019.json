@@ -1,0 +1,75 @@
+[
+    {
+      "name": "PyCon Odessa",
+      "city": "Odessa",
+      "country": "Ukraine",
+      "start_date": "2019-03-16",
+      "end_date": "2019-03-16",
+      "url": "https://pyconodessa.com"
+    },
+    {
+      "name": "PyCon SK",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "start_date": "2019-03-22",
+      "end_date": "2019-03-24",
+      "url": "https://2019.pycon.sk/en"
+    },
+    {
+      "name": "PyCon Italia",
+      "city": "Florence",
+      "country": "Italy",
+      "start_date": "2019-05-02",
+      "end_date": "2019-05-05",
+      "url": "http://pycon.it/en"
+    },
+    {
+      "name": "PyConWeb",
+      "city": "Munich",
+      "country": "Germany",
+      "start_date": "2019-05-25",
+      "end_date": "2019-05-26",
+      "url": "https://pyconweb.com"
+    },
+    {
+      "name": "PyCon CZ",
+      "city": "Ostrava",
+      "country": "Czech republic",
+      "start_date": "2019-06-14",
+      "end_date": "2019-06-16",
+      "url": "https://cz.pycon.org/2019"
+    },
+    {
+      "name": "PyCon UK",
+      "city": "Cardiff",
+      "country": "U.K.",
+      "start_date": "2019-09-13",
+      "end_date": "2019-09-17",
+      "url": "https://2019.pyconuk.org"
+    },
+    {
+      "name": "PyCon Balkan",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "start_date": "2019-10-03",
+      "end_date": "2019-10-05",
+      "url": "https://pyconbalkan.com"
+    },
+    {
+      "name": "PyCon DE & PyData Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "start_date": "2019-10-09",
+      "end_date": "2019-10-13",
+      "url": "https://de.pycon.org"
+    },
+    {
+      "name": "PyCon Ireland",
+      "city": "Dublin",
+      "country": "Ireland",
+      "start_date": "2019-10-12",
+      "end_date": "2019-10-13",
+      "url": "https://python.ie/pycon-2019"
+    }
+  ]
+  
