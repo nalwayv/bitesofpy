@@ -79,6 +79,8 @@ def update_pycons_lat_lon(pycons: List[PyCon]):
     with open(nominatim_responses, "r") as f:
 
         json_cons = json.load(f)
+
+        # get latitude and longitude data from json file
         for py in pycons:
             key = f"https://nominatim.openstreetmap.org/search?q={py.city},{py.country}&format=json&accept-language=en"
             for d in json_cons[key]:
