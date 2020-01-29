@@ -8,6 +8,7 @@
 
 
 #
+- [x] 262. GC content
 - [x] 261. Visit all PyCons in Europe
 - [ ] 260. Let's play with Pandas DataFrames
 - [ ] 259. Reverse complement
