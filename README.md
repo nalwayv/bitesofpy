@@ -8,6 +8,7 @@
 
 
 #
+- [x] 263. Count the number of islands in a grid
 - [x] 262. GC content
 - [x] 261. Visit all PyCons in Europe
 - [ ] 260. Let's play with Pandas DataFrames
