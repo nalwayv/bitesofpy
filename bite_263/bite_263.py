@@ -111,8 +111,8 @@ def mark_islands(p: Point, grid):
 
 
 if __name__ == "__main__":
-    print(count_islands(squares))
-    print(count_islands(sparse))
-    print(count_islands(empty))
-    print(count_islands(bad_map))
-    print(count_islands(circles))
+    tests = [(squares, 2), (sparse, 5), (empty, 0), (bad_map, 0), (circles, 1)]
+
+    for grid_type, islands in tests:
+        ok = count_islands(grid_type) == islands
+        print(ok)
